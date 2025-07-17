@@ -1,0 +1,1001 @@
+Customer_ID,Full_Name,Age,Gender,Account_Open_Date,Account_Type,Income_Level,City,Country,Credit_Score
+CUST1000,Ronald Williams,36,Male,2021-06-28,Savings,High,Port Laura,USA,548
+CUST1001,Jody Herrera,47,Male,2020-05-31,Credit,High,Stephaniebury,UAE,548
+CUST1002,Richard Zhang,55,Female,2021-06-10,Credit,Medium,Caitlynville,India,675
+CUST1003,Jessica Allen,41,Male,2023-05-03,Credit,Low,Vickiborough,UAE,624
+CUST1004,Larry Rich,35,Female,2023-03-04,Savings,Medium,Bradleybury,UK,311
+CUST1005,Maria Gonzales,50,Male,2015-06-21,Credit,Low,Whiteheadfort,UAE,713
+CUST1006,Megan Brown,29,Female,2018-02-15,Current,High,Pearsonbury,UAE,424
+CUST1007,Dr. Andrew Wright,37,Male,2017-08-17,Credit,High,Gallowayside,UAE,508
+CUST1008,Timothy Reed,54,Male,2015-12-30,Current,Medium,New Lindseyfurt,India,472
+CUST1009,April Bonilla,35,Male,2022-12-23,Savings,Low,West Stevenport,Germany,337
+CUST1010,Jonathan Hughes,28,Male,2022-04-29,Savings,Medium,North Samantha,UAE,652
+CUST1011,Jonathan Estrada,61,Male,2022-01-20,Current,Medium,East Jasonburgh,Germany,547
+CUST1012,Heather Reynolds,27,Male,2015-10-14,Current,High,Joshuaview,UK,734
+CUST1013,Rachel Hicks,43,Male,2021-08-13,Credit,High,Lake Angelica,UK,524
+CUST1014,Jared Foster,46,Female,2020-01-15,Savings,Medium,Paulshire,USA,582
+CUST1015,Michael Stewart,55,Female,2022-10-16,Current,Low,Port Luke,Germany,489
+CUST1016,Desiree Mullen,42,Male,2020-04-15,Current,High,East Julie,UAE,455
+CUST1017,Rickey Smith,24,Female,2017-08-31,Savings,Low,New Philliphaven,USA,731
+CUST1018,Alexis Jones,61,Female,2022-03-26,Savings,Medium,East Sandra,UAE,689
+CUST1019,Kelly Collins,46,Female,2022-10-11,Savings,High,New Cynthiafurt,Germany,339
+CUST1020,Morgan Woods,67,Male,2023-08-13,Savings,Medium,Port Raymond,UAE,319
+CUST1021,Stephanie Zuniga,28,Male,2021-06-12,Current,High,North Jamestown,UAE,467
+CUST1022,Tiffany Wilkinson,53,Female,2016-10-14,Savings,Low,Sotoport,UK,722
+CUST1023,Zachary Thomas,38,Female,2016-02-17,Current,Low,Thompsonbury,Germany,802
+CUST1024,Kristin Clark,25,Male,2016-03-09,Savings,Medium,Vasquezfort,UAE,586
+CUST1025,Kathryn Trujillo,24,Male,2018-08-21,Current,High,Lake Terry,UK,740
+CUST1026,Brandon Smith,62,Female,2017-11-04,Credit,Medium,East Jamesport,UAE,459
+CUST1027,Linda Walker,67,Male,2017-12-23,Savings,Low,East Christinechester,USA,805
+CUST1028,Amy Green,30,Male,2016-05-28,Savings,Medium,South Anthonyburgh,USA,637
+CUST1029,Bobby Finley,46,Male,2015-07-22,Credit,High,North Brittany,UAE,774
+CUST1030,Kimberly Allen,37,Female,2015-09-26,Credit,High,Erikmouth,Germany,476
+CUST1031,Cory Hall,43,Male,2020-09-15,Current,High,Salinasport,UAE,380
+CUST1032,James Walter,47,Male,2022-01-29,Savings,High,Martinezberg,Germany,753
+CUST1033,Linda Allison,25,Male,2019-06-26,Current,Medium,West Whitney,Germany,597
+CUST1034,Jennifer Kane,33,Male,2018-02-22,Credit,High,East Karlaport,UK,557
+CUST1035,Rebecca Jackson,57,Male,2016-01-26,Savings,High,Valerieberg,UK,819
+CUST1036,Matthew Blair,67,Male,2017-05-27,Current,Medium,Robertstad,India,771
+CUST1037,Gina Cooper,46,Male,2017-12-07,Credit,Medium,Johnsonfort,Germany,319
+CUST1038,Ian Wilson,38,Male,2017-10-02,Savings,High,South Jennifer,UK,789
+CUST1039,Steven Richardson,66,Female,2022-11-30,Credit,Medium,Lucashaven,UK,451
+CUST1040,Jordan Nguyen,25,Female,2016-01-22,Current,Low,Lake Mark,India,574
+CUST1041,David Thompson,34,Female,2016-11-09,Current,High,Lake Josephville,India,497
+CUST1042,Carolyn Davis,34,Male,2021-01-12,Current,Low,South Donna,Germany,662
+CUST1043,Anthony Davis,39,Female,2021-03-08,Credit,High,Rebekahborough,India,541
+CUST1044,Amanda Adams,30,Female,2021-10-16,Savings,Low,South Krista,Germany,670
+CUST1045,Edward Wells,28,Female,2020-11-03,Current,Medium,Jasonton,UAE,444
+CUST1046,Spencer Shea,63,Female,2015-12-09,Credit,High,North Jennamouth,UAE,376
+CUST1047,Alexandra Martin,50,Male,2015-06-08,Savings,Low,Henrystad,UAE,725
+CUST1048,Tiffany Johnson,34,Female,2023-02-13,Savings,Medium,South Donald,Germany,611
+CUST1049,Marissa Jackson,19,Female,2023-11-08,Credit,High,East Kathryn,UAE,529
+CUST1050,Jennifer Armstrong DDS,41,Male,2018-08-18,Current,Low,New Ericview,India,526
+CUST1051,Kaitlyn Morgan,64,Male,2020-07-18,Savings,Medium,South Shawn,Germany,637
+CUST1052,Brittany Smith,51,Female,2023-01-11,Savings,Medium,Port Meganmouth,UAE,569
+CUST1053,Kyle Hale,41,Male,2017-09-27,Savings,Low,Johnathanton,UK,420
+CUST1054,Carlos Hogan,29,Female,2017-10-05,Current,Medium,East Travisview,UK,593
+CUST1055,John Bond,29,Female,2018-06-11,Current,Low,East Jenniferstad,UAE,692
+CUST1056,Pamela Jackson,33,Female,2020-05-10,Savings,Medium,Lunabury,USA,797
+CUST1057,James Gallagher,36,Male,2018-09-14,Savings,Medium,Hollyburgh,India,733
+CUST1058,Jacqueline Harvey,47,Male,2023-03-30,Savings,High,Josephville,India,384
+CUST1059,Brooke Hoover,61,Female,2024-03-17,Savings,Low,Port Heatherchester,Germany,688
+CUST1060,Sandra Thompson,61,Male,2016-07-21,Savings,High,Williamsmouth,UAE,555
+CUST1061,Ashley Castro,57,Female,2023-06-08,Current,Low,Curtischester,UK,338
+CUST1062,Jasmine Pearson,27,Female,2017-01-06,Current,Low,Hartmouth,USA,773
+CUST1063,Angela Sanchez,45,Female,2024-04-18,Current,High,Gambleland,UK,723
+CUST1064,Jacob Hill,21,Male,2024-01-12,Current,Low,Cassandraside,India,550
+CUST1065,Kyle Fox,23,Female,2019-08-16,Savings,Medium,East Johnside,UK,846
+CUST1066,April Mcdonald,44,Female,2018-08-03,Credit,Medium,Harrisshire,India,613
+CUST1067,Ashley Robinson,38,Male,2016-01-10,Savings,Medium,Michellemouth,UK,847
+CUST1068,Leah Thompson,68,Female,2024-03-09,Credit,Low,Lake Christopher,Germany,571
+CUST1069,Casey Sanders,53,Female,2019-12-12,Savings,Medium,Martinmouth,UK,467
+CUST1070,Jay Li,19,Female,2018-03-17,Current,High,East Shannonhaven,USA,413
+CUST1071,Jamie Cruz,60,Female,2016-12-31,Savings,Medium,Kathleenview,UK,441
+CUST1072,Jennifer Carter,18,Male,2019-11-01,Credit,Medium,Kellieland,UAE,459
+CUST1073,Joseph Jimenez,35,Male,2021-08-12,Current,Medium,Claytonchester,UK,788
+CUST1074,Dr. Shane Brock,28,Female,2023-06-10,Current,Medium,Harveyshire,UK,423
+CUST1075,Melissa Holder DDS,68,Male,2022-10-26,Credit,Low,Lake Zacharyhaven,India,691
+CUST1076,Joshua Gonzales,63,Male,2021-04-24,Credit,Medium,Jonesstad,UAE,377
+CUST1077,Jamie Young,48,Male,2022-06-06,Credit,Low,Port Rachel,UAE,741
+CUST1078,Wesley Higgins,35,Male,2021-11-29,Current,Low,Cynthiabury,USA,438
+CUST1079,Alan Richards,46,Male,2023-11-07,Savings,High,Victoriaside,India,413
+CUST1080,Melissa Collins,31,Male,2016-07-24,Savings,High,Stevenshire,UK,522
+CUST1081,Katie Bowman,41,Male,2016-08-11,Current,Medium,East Lucas,UAE,534
+CUST1082,Brandi Reeves,32,Female,2022-02-02,Credit,High,East Derek,UK,663
+CUST1083,Christina Kirk,25,Male,2016-06-13,Current,Low,Lake Joseph,India,704
+CUST1084,Tonya Shaffer,35,Male,2024-03-26,Savings,Medium,West Catherine,UK,775
+CUST1085,Amanda Fitzpatrick,29,Male,2023-05-02,Current,Low,Carmenton,India,443
+CUST1086,Susan Hammond,41,Female,2017-02-12,Current,Medium,Campbellberg,Germany,766
+CUST1087,Allen Villarreal,42,Male,2015-09-28,Current,Low,West Angelafurt,Germany,780
+CUST1088,Patricia Baker,67,Male,2023-07-08,Credit,High,North Derrick,India,660
+CUST1089,Nicole Gates,68,Female,2023-09-04,Credit,Medium,West Elizabeth,India,444
+CUST1090,Amber Townsend,65,Female,2020-01-08,Credit,Low,Alexanderborough,India,841
+CUST1091,Chelsey Johnson,19,Male,2024-03-08,Savings,High,Port Jill,Germany,733
+CUST1092,Lindsey Graham,63,Female,2022-05-31,Credit,High,East Kaitlynchester,India,546
+CUST1093,Anthony James,68,Female,2021-05-29,Savings,High,South Brett,India,646
+CUST1094,Charles Wells,60,Female,2016-01-31,Current,Low,New Travis,USA,449
+CUST1095,Reginald Taylor,64,Male,2017-07-31,Savings,High,North Eric,India,355
+CUST1096,Michele Austin,61,Female,2016-11-23,Credit,High,North Zacharybury,India,425
+CUST1097,Brianna Lee,41,Female,2016-02-05,Savings,High,North Johnchester,India,496
+CUST1098,Thomas Smith,68,Male,2023-05-15,Credit,High,Andrewstad,Germany,515
+CUST1099,Kaitlyn Bonilla,23,Female,2016-11-17,Credit,Low,Taylorberg,Germany,434
+CUST1100,Janet Williams,43,Male,2018-10-13,Credit,Low,Mcdanielstad,UK,487
+CUST1101,Rebecca Phelps,46,Male,2023-06-22,Credit,Medium,Riceside,Germany,355
+CUST1102,Shawna Mcneil,52,Male,2020-11-04,Credit,Low,Barnesbury,Germany,797
+CUST1103,Charles Shepherd,55,Female,2017-09-01,Savings,High,Lake Ericmouth,UK,613
+CUST1104,Anthony Phelps,37,Female,2017-06-29,Current,Medium,North Peggy,USA,505
+CUST1105,Kevin Carr,57,Female,2023-09-13,Savings,Low,Reynoldsville,USA,698
+CUST1106,Derrick Wright,53,Female,2023-06-13,Credit,Low,South Morgantown,Germany,394
+CUST1107,Brandon Palmer,64,Male,2017-11-09,Savings,Medium,Jerryborough,USA,461
+CUST1108,Laura Jones,61,Female,2015-07-12,Savings,Medium,Reginashire,UAE,508
+CUST1109,Daniel Heath,24,Female,2020-09-30,Current,High,New Alexander,USA,636
+CUST1110,Hannah Long,52,Male,2024-05-09,Credit,High,South Erik,Germany,708
+CUST1111,Dwayne Frazier,67,Female,2020-09-04,Savings,Low,Hernandezfort,Germany,599
+CUST1112,Justin Diaz,56,Female,2017-02-24,Current,High,West Isaac,USA,309
+CUST1113,Pamela Decker,42,Male,2021-02-01,Savings,High,West Jennifer,UAE,530
+CUST1114,Kenneth Giles,62,Female,2019-02-01,Savings,Low,East Karen,Germany,629
+CUST1115,Heather Romero,18,Male,2021-04-22,Savings,Low,South Karatown,UAE,440
+CUST1116,Mary Zamora,23,Male,2020-06-06,Savings,Medium,New Annachester,India,702
+CUST1117,Matthew Johnson,66,Female,2017-06-10,Savings,Low,Port Reginaldview,India,683
+CUST1118,Matthew Campbell,29,Female,2023-01-04,Current,Medium,South Nicholasburgh,USA,658
+CUST1119,Malik Johnson,49,Male,2018-02-01,Credit,Medium,Byrdfurt,India,574
+CUST1120,Holly Davis,68,Female,2018-11-15,Savings,Medium,South Brandon,UK,444
+CUST1121,Kimberly Davis,58,Female,2015-08-07,Current,Low,Davisbury,UAE,843
+CUST1122,Miranda Castro,19,Female,2019-06-24,Savings,Low,New Mason,UAE,375
+CUST1123,Rebecca Rodriguez,68,Female,2017-12-07,Savings,Medium,New Jon,Germany,565
+CUST1124,Sarah Martin,67,Male,2022-08-08,Current,High,East Amy,UK,465
+CUST1125,Carol Mitchell,45,Male,2018-01-04,Savings,Medium,Jennifermouth,UAE,652
+CUST1126,Melanie Robinson,68,Male,2020-09-25,Savings,Low,Port Jennifershire,UAE,445
+CUST1127,Nancy Pearson,51,Male,2022-11-26,Savings,Medium,East Kenneth,USA,716
+CUST1128,Mark King,33,Male,2018-02-27,Savings,Medium,South Tyler,UAE,418
+CUST1129,Clarence Kidd,61,Female,2017-03-16,Credit,Low,Port Karenview,India,577
+CUST1130,Ryan Shelton,67,Female,2023-03-15,Current,Medium,New Matthewbury,India,772
+CUST1131,David Steele,68,Male,2022-05-03,Current,Medium,South Travishaven,UAE,796
+CUST1132,Belinda Gonzales,31,Male,2021-05-23,Credit,Low,South Anthony,Germany,320
+CUST1133,Paul Pratt,66,Male,2021-10-06,Savings,Low,South Michael,UAE,678
+CUST1134,David Walls,41,Female,2023-10-12,Credit,Medium,South George,UK,547
+CUST1135,Reginald Jones,19,Female,2019-04-01,Credit,Low,Kellertown,UK,487
+CUST1136,Craig Duncan,25,Male,2023-08-13,Savings,Low,Port Cynthia,USA,660
+CUST1137,Jason Campbell,61,Female,2019-08-31,Savings,High,Porterbury,UK,662
+CUST1138,Brian Jackson,68,Male,2015-12-07,Savings,High,Luisview,UK,403
+CUST1139,Omar Rodriguez,21,Female,2019-07-25,Savings,High,Elizabethmouth,India,509
+CUST1140,Cody Rodriguez III,24,Female,2020-03-05,Savings,High,Yolandaborough,UAE,618
+CUST1141,Chloe Lee,18,Female,2017-01-11,Savings,High,Johnsonborough,India,511
+CUST1142,Antonio Dodson,65,Male,2016-11-03,Current,Medium,Josephfort,UAE,562
+CUST1143,Jasmine Gonzalez,52,Female,2021-10-24,Savings,Low,South Cole,India,545
+CUST1144,Mr. Travis Fowler DVM,43,Female,2016-10-29,Savings,Medium,West Robert,USA,456
+CUST1145,Paul Green,59,Female,2015-12-15,Credit,Low,North Devonburgh,UAE,672
+CUST1146,Tamara Stewart,54,Male,2019-07-10,Credit,High,South Dominicchester,USA,326
+CUST1147,Christina Aguilar,65,Male,2018-03-05,Savings,High,Morenomouth,USA,398
+CUST1148,Joseph Adkins,37,Male,2020-04-08,Current,Medium,Lake Mitchellbury,USA,480
+CUST1149,Hannah Price,33,Male,2017-12-21,Savings,Medium,Kaylaport,UAE,449
+CUST1150,Lindsay Green,23,Male,2021-02-03,Credit,High,West Melissa,UAE,756
+CUST1151,Lisa Martin,57,Male,2021-03-05,Current,Low,Port Donald,UAE,370
+CUST1152,Jose Haynes,21,Male,2018-02-12,Savings,High,South Charlesland,UK,790
+CUST1153,John Espinoza,37,Male,2018-06-04,Credit,Medium,South Whitneybury,USA,544
+CUST1154,Robert Hoffman,59,Female,2021-06-15,Current,Low,New Jeffreyshire,India,775
+CUST1155,Michael Miller,49,Female,2022-07-15,Savings,Low,Nicholasstad,India,744
+CUST1156,James Kelly,57,Female,2023-03-01,Credit,Medium,Ferrellland,UK,797
+CUST1157,Carrie Avila,50,Female,2023-05-18,Credit,High,New Morgan,UAE,487
+CUST1158,Robin Schneider,38,Male,2021-05-02,Credit,Medium,Hernandezton,Germany,573
+CUST1159,Derek Brown,30,Female,2019-10-31,Credit,High,East Phillip,UAE,615
+CUST1160,Stephanie Norris,62,Female,2018-02-10,Current,Low,Simmonsville,India,677
+CUST1161,Joanna Cordova,68,Male,2016-09-02,Credit,Medium,Williamtown,Germany,646
+CUST1162,Megan Dominguez,64,Male,2023-09-21,Current,Low,Port Diane,Germany,548
+CUST1163,Kayla Stewart,23,Female,2022-12-20,Savings,Medium,Port James,UAE,640
+CUST1164,Christopher Mendoza,29,Female,2015-06-04,Current,Medium,East Dustinshire,UK,322
+CUST1165,Adam Collins,62,Male,2015-11-29,Credit,High,Hayeshaven,Germany,696
+CUST1166,Marc Coleman,33,Male,2021-09-24,Current,Low,Davidborough,UK,587
+CUST1167,Melissa Anderson,67,Male,2019-02-27,Savings,Medium,West Stephanie,UAE,372
+CUST1168,Dana Rodriguez,20,Male,2017-11-13,Savings,Medium,Penningtonmouth,UAE,559
+CUST1169,Timothy Bautista,51,Male,2016-03-18,Current,Low,Martinezfort,UAE,585
+CUST1170,Kelly Harris,38,Female,2020-08-22,Credit,Medium,Peterborough,India,608
+CUST1171,Joanna Reese,67,Female,2023-12-02,Current,High,Port Bethany,Germany,741
+CUST1172,Natasha Walker,61,Male,2019-03-24,Savings,High,South Anne,UK,310
+CUST1173,Lori Ashley,51,Female,2020-11-07,Current,High,South Tyler,UK,431
+CUST1174,Timothy Parks,45,Male,2023-04-17,Savings,High,New Markfurt,USA,627
+CUST1175,Melanie Sawyer,43,Female,2018-11-07,Current,Medium,Reedfort,UK,446
+CUST1176,Diana Parker,22,Male,2018-02-07,Savings,Medium,Roberttown,India,756
+CUST1177,Amy Franco,25,Female,2021-01-28,Current,Medium,East Katieshire,Germany,638
+CUST1178,Kerry Holland,44,Female,2016-09-21,Current,Low,Barnettton,India,667
+CUST1179,Rhonda Campbell,37,Female,2023-04-02,Savings,Low,New Dylanton,UK,715
+CUST1180,Laura Jackson,18,Male,2016-01-24,Credit,Low,Lake Kevin,Germany,783
+CUST1181,Michael Hall,23,Female,2019-10-03,Credit,Medium,East Melissaside,UAE,554
+CUST1182,Victoria Strickland,30,Female,2016-05-17,Credit,Low,Patriciahaven,India,332
+CUST1183,John Thomas,67,Female,2017-05-18,Savings,Medium,Myerston,USA,753
+CUST1184,Jill Davis,42,Female,2023-12-25,Savings,Low,Port Stephanie,USA,517
+CUST1185,Arthur Hodges,19,Male,2020-01-25,Credit,High,East Rebeccamouth,UK,814
+CUST1186,Kelly Hunt,54,Male,2021-09-22,Credit,High,South Scottview,UK,605
+CUST1187,Sierra Powell,29,Male,2019-11-11,Credit,Low,South Don,Germany,488
+CUST1188,Lisa Hill,36,Female,2019-08-14,Savings,Medium,Port Derekmouth,UAE,599
+CUST1189,Emily Sweeney,65,Male,2021-04-28,Current,High,Port Gabriel,India,736
+CUST1190,Teresa Robertson,41,Female,2016-09-15,Current,High,Donaldchester,UAE,328
+CUST1191,Savannah Collins,53,Male,2017-09-22,Savings,Low,Ortegaberg,Germany,622
+CUST1192,Jason Harris,36,Female,2015-11-06,Savings,High,Jensenland,UAE,377
+CUST1193,Nicholas Allen,28,Female,2018-08-05,Credit,Low,Smithmouth,UAE,312
+CUST1194,Joseph Lucas,61,Male,2020-06-10,Current,Low,Port Cameron,USA,495
+CUST1195,Tammy Acosta,42,Female,2021-09-11,Savings,Low,Karatown,UK,634
+CUST1196,Erika Robinson,49,Male,2020-09-26,Current,Medium,North Richardland,USA,752
+CUST1197,Sarah Watkins,49,Female,2021-08-25,Current,Low,East Carlos,UK,666
+CUST1198,Gregory Pratt,30,Female,2022-05-18,Savings,Low,West Kelly,UK,635
+CUST1199,Nicholas Campbell,38,Female,2015-08-14,Savings,Low,New Elizabeth,UAE,712
+CUST1200,Jacob Reeves,53,Female,2019-02-15,Current,High,Romeroview,UAE,840
+CUST1201,Jennifer Thomas,65,Male,2015-11-27,Current,Low,Spencerhaven,India,415
+CUST1202,Kimberly Allen,50,Female,2024-04-26,Credit,High,Lake Meredith,USA,395
+CUST1203,Jordan Blankenship,31,Male,2023-09-04,Credit,High,Jessicaview,USA,330
+CUST1204,William Lewis,24,Female,2017-04-22,Credit,Medium,Richardberg,Germany,690
+CUST1205,Bobby Edwards,40,Female,2016-01-31,Savings,Medium,Elliottfurt,UK,507
+CUST1206,Joshua Alvarado,65,Female,2021-05-28,Savings,Medium,Kaylafort,UAE,361
+CUST1207,Joseph Pope,31,Female,2023-07-11,Current,High,Cookbury,Germany,518
+CUST1208,Jeffery Stewart,31,Female,2019-09-21,Credit,High,New Carol,Germany,815
+CUST1209,Matthew Pruitt,55,Female,2020-03-18,Credit,Medium,Morrisbury,UK,786
+CUST1210,Kenneth Mcguire,64,Female,2021-10-27,Savings,High,Leahstad,India,760
+CUST1211,Audrey Hutchinson,38,Female,2016-09-13,Credit,Medium,Mosesport,USA,528
+CUST1212,Taylor Johnson,61,Female,2017-06-18,Savings,Low,East Ann,India,318
+CUST1213,Jennifer Finley,46,Male,2018-08-28,Savings,Low,Webershire,UAE,809
+CUST1214,Daniel Mcknight,68,Female,2023-12-01,Credit,High,Hansontown,India,548
+CUST1215,Gregory Kennedy,54,Female,2022-02-17,Savings,Medium,East Amanda,India,370
+CUST1216,Michelle Simmons,59,Male,2015-08-17,Savings,Medium,Perryburgh,UK,577
+CUST1217,Paul Mcdonald,54,Male,2022-09-19,Savings,Low,Andersonchester,Germany,414
+CUST1218,Randy Waters,69,Female,2015-11-14,Credit,Medium,Reynoldsmouth,Germany,531
+CUST1219,Jermaine Cabrera,24,Male,2022-08-28,Current,High,South Barrystad,UK,664
+CUST1220,Mark Pierce,40,Female,2017-02-10,Savings,Low,Juliatown,UK,813
+CUST1221,Antonio Davis Jr.,55,Male,2018-02-28,Savings,Low,Henryberg,USA,357
+CUST1222,Terry Fox,62,Male,2017-09-12,Current,Low,Martinezstad,India,810
+CUST1223,Christopher Summers,57,Female,2015-09-01,Current,Medium,East Alexandermouth,Germany,767
+CUST1224,Patricia Lane,44,Female,2024-03-07,Savings,Medium,New Brian,Germany,845
+CUST1225,Kayla Sharp,57,Male,2019-02-13,Savings,Medium,Johnshire,Germany,731
+CUST1226,Kristen Matthews,39,Female,2016-04-11,Credit,Low,Fraziertown,UK,819
+CUST1227,Dr. David Conley,27,Male,2023-03-27,Credit,Medium,Michelleport,UK,785
+CUST1228,Christopher Waters,38,Male,2020-03-10,Credit,Low,Tammytown,Germany,717
+CUST1229,Richard Dunlap,56,Male,2017-09-03,Credit,Low,East Stephanie,Germany,349
+CUST1230,James Miller,38,Female,2016-05-17,Savings,Low,Mendezburgh,USA,752
+CUST1231,Robert Lawrence,25,Female,2020-03-01,Credit,Low,Thomasfort,India,743
+CUST1232,Jasmine Schwartz,30,Female,2020-01-20,Current,Medium,Riverafort,UAE,713
+CUST1233,Mr. Douglas Perkins Jr.,53,Female,2017-08-14,Credit,Medium,Port Joshua,India,464
+CUST1234,Sarah Norton,28,Male,2021-01-13,Credit,Low,Phillipschester,UAE,814
+CUST1235,Susan Luna,69,Male,2018-12-31,Current,High,Pattersonland,UK,640
+CUST1236,Brendan Sanders,39,Female,2021-11-24,Savings,High,New Lisa,Germany,664
+CUST1237,Anthony Garrett,44,Male,2024-02-03,Current,Low,New Clintonburgh,India,390
+CUST1238,Dr. Vanessa Lopez,18,Male,2019-11-22,Savings,Medium,North Juanfurt,India,670
+CUST1239,Dean Martinez,29,Female,2017-12-03,Savings,High,Murphyport,India,699
+CUST1240,Kevin Jackson,39,Male,2024-01-30,Current,Medium,Lake Donaldport,UK,661
+CUST1241,Gregory Holt,48,Male,2016-03-08,Current,Low,West Jared,India,439
+CUST1242,Terry Keller,46,Male,2021-09-25,Credit,Medium,West Krista,Germany,629
+CUST1243,Dylan Paul,29,Female,2017-01-13,Current,Low,Hawkinsland,UK,302
+CUST1244,Randy Thomas,47,Female,2019-04-01,Credit,Low,Angelaport,UAE,589
+CUST1245,Marvin Waters,42,Female,2016-03-22,Credit,Medium,Ramirezfurt,UAE,721
+CUST1246,Katie Compton,33,Male,2018-03-31,Credit,High,Georgemouth,UK,842
+CUST1247,Dawn Frazier,28,Male,2024-01-13,Savings,Medium,Millermouth,UK,556
+CUST1248,Marc Hernandez,18,Female,2024-05-03,Current,High,Jennyshire,USA,446
+CUST1249,George Johnson,54,Female,2022-03-10,Credit,Medium,Pollardberg,USA,722
+CUST1250,Colleen Chen,20,Male,2015-07-07,Credit,Low,Stephenton,India,541
+CUST1251,Michael Riley,38,Female,2019-11-09,Credit,Medium,South Ninaview,UK,424
+CUST1252,Justin Howell,47,Female,2016-05-20,Current,High,Bennettton,UK,706
+CUST1253,Michael Jones,43,Male,2017-04-23,Credit,Medium,Owensside,USA,587
+CUST1254,Johnny Macdonald,66,Male,2016-10-14,Savings,Medium,Michellemouth,UK,375
+CUST1255,Taylor Kennedy,27,Female,2019-08-25,Savings,Medium,Port Paulaville,Germany,602
+CUST1256,Elizabeth Cruz,37,Male,2017-04-02,Credit,Low,Scottchester,UK,642
+CUST1257,Charles Trevino,20,Male,2018-11-08,Savings,Low,South Jessica,UAE,354
+CUST1258,Nicole Williams,33,Male,2017-03-28,Credit,Low,Adamton,UAE,609
+CUST1259,Jermaine Kim,37,Male,2018-10-23,Credit,Medium,East Jameshaven,Germany,835
+CUST1260,Anna Soto,19,Female,2015-05-15,Credit,Low,New Robert,UAE,692
+CUST1261,Evan Benitez,54,Female,2020-05-21,Savings,Low,Elizabethshire,UK,848
+CUST1262,Eileen Gardner,29,Female,2017-10-18,Savings,High,Jimmyburgh,UK,742
+CUST1263,Dr. Joseph Acosta,18,Female,2023-07-18,Current,High,New Melissa,UK,805
+CUST1264,Matthew Gonzalez,47,Male,2019-02-18,Credit,Medium,Shawchester,India,464
+CUST1265,Kristina Rogers,23,Male,2016-01-09,Credit,Low,Dennisborough,Germany,600
+CUST1266,Stacie Rice,44,Male,2018-01-31,Credit,Medium,Dickersonland,Germany,419
+CUST1267,Stephen Bolton,47,Male,2022-03-15,Current,Low,East Kellychester,Germany,434
+CUST1268,Maria Bailey,22,Female,2019-01-02,Current,High,Santiagoville,Germany,642
+CUST1269,Michelle Fox,39,Female,2021-07-27,Credit,High,Blackmouth,India,801
+CUST1270,Elizabeth Bell,37,Male,2020-10-07,Current,Medium,Powellfurt,UK,401
+CUST1271,Dr. Benjamin Anderson DDS,26,Female,2016-11-10,Credit,Low,South Kimberlymouth,UK,826
+CUST1272,Eric Chapman,45,Male,2020-07-26,Savings,Medium,Rowlandtown,India,568
+CUST1273,Phillip Mcdaniel,59,Female,2020-01-23,Savings,Medium,North Aaronland,Germany,326
+CUST1274,Melissa Bullock,68,Female,2020-12-29,Savings,Medium,North Jessica,India,382
+CUST1275,Kathleen Shannon,29,Female,2016-08-02,Current,Low,Williamsshire,USA,569
+CUST1276,Elizabeth Wright,32,Female,2020-01-10,Savings,High,Lake Travisborough,UK,518
+CUST1277,Stephen Bond,67,Male,2015-09-19,Savings,Medium,Mcfarlandburgh,India,322
+CUST1278,James Jones,38,Male,2020-05-06,Current,Medium,East Jonathan,Germany,828
+CUST1279,Brian Hill,42,Male,2019-09-05,Credit,Low,Cohenville,UAE,629
+CUST1280,Russell Reynolds,65,Male,2022-12-31,Current,Medium,West Amy,Germany,402
+CUST1281,Felicia Andrews,36,Male,2022-09-06,Credit,Low,Christopherside,India,837
+CUST1282,Jennifer Hansen DDS,49,Female,2020-12-31,Credit,Medium,Lake Michele,Germany,366
+CUST1283,Jason Aguilar,19,Female,2024-01-11,Savings,Medium,Whiteport,Germany,821
+CUST1284,Philip Reeves,18,Female,2023-04-06,Savings,High,Hoffmanport,UAE,842
+CUST1285,Alexis Perry,31,Female,2016-08-22,Current,Medium,Port Monicaport,UK,337
+CUST1286,Michelle Hardin,63,Female,2018-04-09,Current,Medium,East Monica,UK,459
+CUST1287,Christopher Guzman,67,Female,2015-09-14,Current,High,New Jasonstad,UAE,530
+CUST1288,Mark Gardner,62,Female,2024-01-04,Current,Medium,Travismouth,India,829
+CUST1289,Fred Lutz,35,Male,2015-08-03,Savings,High,Lake Traceyport,UK,845
+CUST1290,Darlene Berry,41,Male,2020-03-31,Savings,Medium,North Stuartstad,Germany,785
+CUST1291,Lisa Smith,66,Male,2015-12-08,Current,Low,Ryanfurt,India,805
+CUST1292,Kim Scott,27,Female,2019-01-30,Credit,High,Jamesburgh,India,785
+CUST1293,Patricia Allen,66,Male,2021-10-01,Savings,Medium,East Ianport,UAE,492
+CUST1294,Jason Schmidt,34,Female,2021-12-29,Savings,High,Lake Christinebury,Germany,715
+CUST1295,Mrs. Anne Rodriguez,68,Male,2016-03-07,Credit,High,New Sarah,UK,365
+CUST1296,Justin Faulkner,34,Male,2019-12-25,Current,Low,Tonymouth,UK,702
+CUST1297,Xavier Hall,31,Female,2018-05-14,Current,High,East Brandonton,UK,405
+CUST1298,Jeffery Brown,20,Female,2016-11-20,Current,High,Port Monica,USA,399
+CUST1299,Jonathan Johnson,50,Male,2018-02-04,Savings,Medium,West Antonioberg,USA,586
+CUST1300,Jeffrey Burns,41,Male,2023-10-10,Credit,Low,Port Josephberg,India,333
+CUST1301,Michael Lamb,31,Male,2023-07-29,Current,High,Yvonnefurt,USA,347
+CUST1302,Destiny Jones,29,Female,2017-02-07,Current,Medium,Carterview,India,378
+CUST1303,Ashley Anderson,61,Female,2023-06-07,Savings,Medium,Lake Scottview,USA,661
+CUST1304,Dakota Jenkins,27,Male,2018-10-30,Savings,Low,Margaretburgh,UAE,460
+CUST1305,Ronald Moore MD,45,Female,2023-09-19,Current,High,Andrewstad,USA,573
+CUST1306,Anthony Klein,32,Male,2023-06-26,Credit,High,South Janetmouth,UAE,667
+CUST1307,Holly Espinoza,62,Male,2023-10-29,Credit,Medium,North Adam,UAE,368
+CUST1308,Brianna Rodriguez,65,Female,2019-08-09,Savings,Low,Medinaburgh,India,443
+CUST1309,Michelle Hayes,67,Male,2017-10-08,Savings,High,Monroeside,USA,781
+CUST1310,Audrey Harrington,46,Male,2021-03-28,Savings,Low,Port Sandra,UK,445
+CUST1311,Mr. Kyle Ford,33,Female,2020-05-25,Savings,Low,New Ronnie,UAE,798
+CUST1312,Brooke Cox,26,Male,2022-02-13,Savings,High,West Karenchester,Germany,427
+CUST1313,Jeanette Gonzalez,31,Male,2018-11-21,Current,High,Robertberg,India,362
+CUST1314,Ryan Malone,41,Female,2021-02-07,Savings,Low,Philliphaven,Germany,471
+CUST1315,Mark Thompson,36,Female,2023-11-08,Savings,Low,West Sarahmouth,Germany,700
+CUST1316,Jordan Mack,18,Female,2018-09-08,Savings,Medium,Jonesberg,Germany,523
+CUST1317,Jason Thomas,27,Female,2019-12-27,Credit,Medium,New Paulhaven,Germany,319
+CUST1318,Joseph Johnson,24,Female,2021-11-09,Current,Medium,West Travisberg,UAE,328
+CUST1319,Brad Bates,54,Male,2022-09-18,Credit,High,Lake Stephen,UAE,704
+CUST1320,Alice Brown,52,Female,2021-12-20,Savings,High,East Allen,UK,845
+CUST1321,Mckenzie Edwards,68,Male,2017-07-03,Credit,Low,Ortizshire,Germany,312
+CUST1322,Stacey Rogers DDS,47,Male,2023-05-28,Credit,Low,Nicoleberg,Germany,426
+CUST1323,Anthony Rice,30,Male,2024-01-23,Credit,Medium,Danielsport,Germany,662
+CUST1324,Victoria Moss,25,Female,2023-09-09,Credit,Medium,Port Ericbury,Germany,323
+CUST1325,Michael Miller,56,Female,2024-03-08,Credit,High,Lake Tarachester,Germany,325
+CUST1326,Jordan Andrews,43,Female,2020-05-10,Credit,Low,Atkinstown,UAE,765
+CUST1327,Zachary Watson,18,Female,2023-05-11,Current,Low,South Angelatown,USA,491
+CUST1328,Jon Watkins,27,Male,2016-05-15,Savings,Medium,Staffordview,Germany,736
+CUST1329,William Mckinney,58,Female,2022-08-21,Credit,Low,Michaelfort,USA,673
+CUST1330,Eric Campos,36,Female,2019-06-10,Current,Medium,Gomezbury,Germany,749
+CUST1331,Elizabeth Williams,69,Male,2017-02-13,Savings,High,Zacharyton,India,466
+CUST1332,Felicia Murray,40,Female,2023-01-22,Savings,Medium,Lake Michael,UAE,433
+CUST1333,Cindy Moss,42,Male,2020-11-14,Credit,Medium,Jessemouth,UAE,515
+CUST1334,Steve Turner,58,Female,2018-04-10,Credit,High,Angelmouth,Germany,840
+CUST1335,Rita Campbell,65,Female,2021-10-28,Current,High,Larryhaven,UK,774
+CUST1336,Katherine Solomon,42,Female,2018-04-21,Credit,High,Jonesfort,UK,651
+CUST1337,Oscar Johnson,54,Female,2022-12-01,Savings,Medium,West Jessicaborough,Germany,478
+CUST1338,Kimberly Sampson,28,Female,2018-02-10,Current,Medium,New Nathanhaven,India,802
+CUST1339,Shelby Chen,60,Male,2019-07-05,Credit,High,Port Robert,UAE,650
+CUST1340,Casey Cooke,58,Female,2020-02-13,Current,Medium,Jacobside,UK,704
+CUST1341,Marcus Navarro,59,Male,2022-08-24,Current,Medium,South Stephenchester,India,517
+CUST1342,Keith Vasquez,18,Male,2015-06-23,Savings,Low,Lake Tina,USA,515
+CUST1343,Anna Lopez,25,Male,2019-02-23,Credit,Medium,Jonesfort,India,724
+CUST1344,Marilyn Taylor,63,Male,2016-06-14,Savings,Low,West Mariobury,UAE,551
+CUST1345,Tiffany Jones,67,Female,2021-05-16,Savings,Medium,Morenomouth,USA,657
+CUST1346,Lorraine Sherman,44,Male,2023-04-24,Savings,Low,East Albert,UK,440
+CUST1347,Christopher Carrillo,51,Female,2023-10-12,Credit,Low,Madisonmouth,India,705
+CUST1348,Patrick Floyd,45,Female,2020-06-25,Current,Medium,Smithmouth,India,544
+CUST1349,Wanda Martinez,42,Male,2018-05-30,Credit,Low,North Lisafort,UK,784
+CUST1350,Robert Riggs,40,Male,2024-04-12,Savings,Low,Harriston,UAE,340
+CUST1351,Craig Herrera,35,Female,2020-09-17,Credit,Low,Port Sharon,Germany,767
+CUST1352,Christopher Cisneros,40,Male,2021-08-17,Savings,Medium,New Caroline,USA,471
+CUST1353,Chelsea Davis,43,Female,2015-10-14,Credit,Low,Taylorbury,UAE,639
+CUST1354,Eric Hubbard,39,Male,2024-04-30,Credit,Low,Sharonchester,UK,828
+CUST1355,Sydney Lopez,24,Female,2016-06-15,Savings,Medium,Manningbury,UAE,395
+CUST1356,Kimberly Stanley,69,Male,2022-09-26,Credit,High,Smithton,UAE,699
+CUST1357,John Adams,25,Female,2023-07-15,Current,High,Delgadoburgh,India,705
+CUST1358,Jeanette Diaz,41,Male,2018-09-05,Savings,High,Damonborough,UK,818
+CUST1359,Tricia Mullins,20,Female,2016-05-09,Credit,Low,Pennyville,UK,359
+CUST1360,Brittany Rodriguez,39,Male,2019-12-26,Credit,High,Lake Christopherborough,UK,596
+CUST1361,Derrick Summers,64,Female,2017-04-06,Savings,High,New Steventon,Germany,692
+CUST1362,Brian Hill,34,Male,2017-10-19,Credit,High,Coopermouth,India,551
+CUST1363,Danielle Allen,18,Male,2018-08-21,Current,Medium,Wintersview,UK,537
+CUST1364,Christina Chavez,18,Female,2016-06-29,Savings,Medium,North Susan,UK,461
+CUST1365,Joseph Black,61,Female,2021-10-26,Credit,High,Marymouth,India,457
+CUST1366,John Weaver,52,Female,2017-07-12,Savings,Low,Jeffreychester,USA,548
+CUST1367,Sarah Rice,31,Female,2020-11-03,Savings,Medium,Rogerston,Germany,613
+CUST1368,Joshua Preston,36,Female,2022-07-27,Savings,Medium,Normanborough,Germany,469
+CUST1369,Joseph Ramirez,53,Male,2020-02-27,Current,Low,East Jessicahaven,UAE,726
+CUST1370,Heidi Conway,43,Male,2017-08-06,Current,High,Port Stevenshire,USA,725
+CUST1371,Susan Herring,68,Female,2020-01-20,Credit,Low,Harrellhaven,UK,375
+CUST1372,Emily Smith,61,Female,2017-11-29,Savings,High,Stewartburgh,Germany,677
+CUST1373,Debra Mitchell,55,Female,2022-10-07,Credit,High,East Pattyport,India,710
+CUST1374,Cheyenne Woods,36,Male,2022-06-12,Credit,Medium,Holmesburgh,India,629
+CUST1375,Patricia Abbott PhD,28,Female,2021-03-26,Credit,High,East Walter,USA,836
+CUST1376,Sean Meyer,44,Female,2020-03-04,Credit,Medium,North Markton,USA,307
+CUST1377,Jennifer Williams,28,Male,2023-04-01,Current,High,Birdport,UAE,642
+CUST1378,Chad Hart,43,Male,2022-09-05,Savings,Low,Wadeside,UK,358
+CUST1379,Jennifer Carr,57,Female,2015-12-10,Current,High,Matthewberg,Germany,800
+CUST1380,Janet Holloway,56,Male,2021-10-05,Credit,Medium,East Crystal,USA,510
+CUST1381,Brandon Davis,51,Female,2020-03-27,Current,High,South Paul,India,591
+CUST1382,Jimmy Abbott,40,Male,2016-10-07,Credit,Medium,Suttonhaven,India,811
+CUST1383,Jeanette Simmons,64,Female,2023-10-29,Savings,Low,Port Vincentstad,India,847
+CUST1384,Autumn Elliott,26,Male,2016-06-08,Savings,Low,Stonetown,UK,634
+CUST1385,Ashley Huff,68,Male,2023-03-09,Current,Medium,South Kathleen,USA,346
+CUST1386,Melissa Hicks,31,Male,2016-08-21,Credit,High,Scottchester,India,802
+CUST1387,Jason David,31,Female,2017-07-05,Credit,Low,Donnafort,UK,524
+CUST1388,Nathan Miller,46,Female,2016-10-16,Savings,High,Markburgh,USA,544
+CUST1389,Nicole Madden,22,Female,2020-08-06,Savings,Low,Lake Darrell,USA,345
+CUST1390,Charles Phillips,36,Female,2019-03-15,Savings,High,East Kimberlyberg,USA,519
+CUST1391,Mr. Willie Perez,38,Female,2023-11-19,Current,Medium,New Cathy,UK,838
+CUST1392,Karen Davenport,27,Female,2021-03-01,Savings,High,New Zachary,Germany,803
+CUST1393,Aaron Gilbert,48,Male,2015-08-26,Current,Low,South Lauren,Germany,724
+CUST1394,Melvin Lozano,39,Female,2016-03-01,Credit,Medium,Lake Darrellport,UK,382
+CUST1395,Nicole Hopkins,55,Male,2020-10-10,Current,High,South Jeffreyside,UAE,479
+CUST1396,John Walker,54,Male,2023-11-30,Savings,Low,Christophertown,Germany,313
+CUST1397,Valerie James,36,Female,2018-10-31,Credit,Medium,Lake Wendy,India,481
+CUST1398,Leslie Bartlett,49,Male,2023-07-14,Credit,Medium,South Holly,USA,524
+CUST1399,Jason Church,38,Male,2021-03-20,Savings,Medium,Floresbury,India,746
+CUST1400,Steven Hernandez,54,Male,2021-02-19,Current,Low,Johnview,UAE,566
+CUST1401,Matthew Ortiz,63,Female,2020-08-05,Current,High,Kylefurt,UAE,817
+CUST1402,Kimberly Nelson,58,Male,2018-01-16,Current,Medium,Fernandoside,Germany,550
+CUST1403,Mary Patel,51,Female,2019-01-25,Current,High,Wardmouth,UAE,404
+CUST1404,Tracy Hawkins,48,Male,2022-06-20,Savings,Medium,Donnatown,Germany,706
+CUST1405,John Armstrong,20,Male,2019-09-11,Current,Medium,Costaville,UK,729
+CUST1406,Brittany Larson,34,Female,2016-05-31,Credit,High,Rodriguezberg,UAE,520
+CUST1407,Janet Wagner,21,Male,2017-11-18,Credit,High,Cartermouth,USA,702
+CUST1408,Sara Boyer,19,Female,2017-07-25,Credit,Medium,New Jaredtown,USA,702
+CUST1409,Alexander Moore,38,Male,2018-08-09,Current,Low,Russobury,UAE,400
+CUST1410,Debbie Wilson,65,Male,2024-03-13,Savings,High,New Bryan,Germany,358
+CUST1411,Sarah Mason,19,Male,2016-07-15,Credit,Medium,West Taylorville,India,441
+CUST1412,Yvonne Alvarez,61,Female,2023-05-10,Current,Low,Port Kirktown,Germany,819
+CUST1413,Monique Davis,41,Female,2018-09-20,Current,High,Robertbury,India,685
+CUST1414,Leslie Brown,36,Female,2016-11-11,Credit,Medium,South Jeffreybury,UK,682
+CUST1415,Amanda Mckay,56,Male,2019-08-12,Savings,Medium,North Donald,Germany,834
+CUST1416,Christopher Barnes,67,Female,2018-04-22,Credit,Low,Lake Emilyside,UAE,644
+CUST1417,Steven White,31,Female,2017-12-05,Credit,High,Stephanieburgh,UAE,603
+CUST1418,Christine Aguilar,67,Female,2016-07-03,Savings,Medium,New Jon,Germany,802
+CUST1419,Zoe White,19,Female,2017-11-02,Credit,High,North Kimberly,USA,469
+CUST1420,Cindy Bryant,62,Male,2020-03-03,Current,Low,Walkerside,India,528
+CUST1421,Brandon Sosa,54,Female,2022-01-23,Current,High,New Zachary,UK,380
+CUST1422,Joseph Martin,29,Female,2018-07-07,Current,High,Port Ashleyburgh,India,735
+CUST1423,Blake Walsh,39,Male,2017-03-17,Savings,High,Jasonhaven,UAE,627
+CUST1424,Mary Rice,37,Female,2017-12-08,Credit,High,North Christinachester,India,376
+CUST1425,Randy Harmon,48,Male,2023-11-13,Savings,Low,Mercadochester,USA,714
+CUST1426,Judith West,44,Male,2020-11-07,Savings,Low,Burtonshire,UAE,599
+CUST1427,Lisa Johnson,45,Female,2015-05-21,Current,Low,North Michael,UAE,396
+CUST1428,Lisa Hayes,60,Male,2020-08-19,Credit,Medium,East Jennifer,India,333
+CUST1429,Jenna Robinson,51,Female,2016-07-24,Credit,Medium,West Benjamin,UK,514
+CUST1430,Thomas Mcguire,68,Female,2017-07-25,Credit,Medium,Port Heatherside,UK,755
+CUST1431,Bradley Montgomery,18,Male,2023-06-25,Current,Low,North Raymond,India,756
+CUST1432,Michael Harper,69,Female,2020-08-07,Savings,Medium,Hansenside,UAE,461
+CUST1433,Shannon Brown,55,Female,2021-08-12,Credit,Medium,Meganbury,Germany,663
+CUST1434,Jesse Day,27,Male,2016-05-27,Credit,Medium,Port Eric,India,376
+CUST1435,Crystal Li,64,Male,2019-02-23,Savings,High,West Leah,UK,300
+CUST1436,Melissa Dunn,52,Male,2019-06-17,Savings,Low,Lisaland,Germany,746
+CUST1437,Erik Patterson,59,Male,2020-12-28,Current,Low,New Devinfort,UAE,638
+CUST1438,Julie Perez,33,Female,2021-11-28,Savings,Medium,North Michaelview,USA,402
+CUST1439,Norma Hudson,68,Female,2023-10-19,Current,High,Laurenfurt,Germany,729
+CUST1440,Monica Morgan,58,Female,2023-12-09,Savings,Medium,Jessicaburgh,UAE,827
+CUST1441,Patty Bond,48,Female,2017-06-07,Savings,Low,East Christopher,UK,469
+CUST1442,Kathleen Luna,54,Female,2019-12-15,Credit,Low,South Ashleyhaven,UK,705
+CUST1443,Timothy Lara,50,Male,2019-06-17,Current,Low,Walkerberg,UK,547
+CUST1444,Mr. Richard Moon,59,Male,2017-10-05,Current,Medium,Kelleyport,UK,499
+CUST1445,Theodore Jordan,30,Male,2017-05-23,Credit,Low,Leeside,Germany,370
+CUST1446,Heather Joseph,64,Male,2024-01-22,Current,Medium,Georgeborough,Germany,602
+CUST1447,Michael Harper,45,Male,2017-09-21,Savings,High,Lake Ryanchester,UAE,568
+CUST1448,Nicholas Smith,34,Male,2023-06-24,Savings,High,Lake Stacey,USA,685
+CUST1449,Anna Herrera,66,Female,2015-06-13,Credit,Low,Port Kathrynside,USA,666
+CUST1450,Katherine Green,62,Female,2020-12-08,Current,Low,Whiteport,India,468
+CUST1451,Matthew Russell,29,Female,2023-01-02,Savings,Medium,Carolynchester,India,392
+CUST1452,Nathan Arnold,53,Male,2015-12-31,Current,High,West Natasha,UAE,568
+CUST1453,Richard Miller,21,Female,2019-03-31,Savings,Medium,Jasminemouth,USA,569
+CUST1454,Andrew Rodriguez,55,Female,2023-08-02,Credit,Low,South Danielshire,UAE,835
+CUST1455,Jennifer Kim,26,Female,2019-09-02,Credit,Medium,Braunfurt,USA,486
+CUST1456,Brian Henry,68,Male,2020-06-24,Credit,Medium,Paulland,USA,358
+CUST1457,Robert Brown,69,Female,2019-07-10,Savings,High,Coryborough,Germany,815
+CUST1458,Brianna Martinez,27,Female,2019-12-16,Savings,Low,North Marcuston,UK,808
+CUST1459,Dawn Sims,68,Female,2021-04-15,Credit,Medium,North Johnathanborough,UK,693
+CUST1460,Sabrina Campos,55,Female,2017-06-15,Credit,Low,Robertton,USA,502
+CUST1461,Kathleen George,40,Female,2017-02-14,Credit,Medium,West Thomasborough,Germany,694
+CUST1462,Jessica Williams,19,Female,2021-09-20,Savings,Low,North Shawnhaven,India,669
+CUST1463,Katherine Spencer,22,Male,2019-07-04,Savings,Low,New Susanshire,USA,600
+CUST1464,Anthony Garcia,40,Female,2021-02-28,Current,Medium,New Sharon,Germany,541
+CUST1465,Ronald Davis,31,Male,2018-10-09,Credit,Medium,West Eduardo,UAE,649
+CUST1466,Thomas Banks,52,Male,2023-11-08,Savings,Low,Cherylland,India,497
+CUST1467,Julie Booker,38,Female,2024-01-10,Credit,Medium,East Jefferyborough,Germany,430
+CUST1468,Brandy Pacheco,54,Female,2023-10-18,Credit,Low,Cynthiabury,UK,571
+CUST1469,Rebecca Gillespie,52,Male,2020-09-18,Credit,Low,West Sandraton,UK,363
+CUST1470,Taylor Cummings,66,Female,2018-10-27,Credit,High,South Lindseyside,USA,801
+CUST1471,Kristine Mitchell,29,Female,2016-11-12,Credit,Medium,North Julie,Germany,701
+CUST1472,Courtney Mclaughlin,64,Female,2017-12-02,Current,Low,North Gregside,UK,504
+CUST1473,Cristian Henderson,39,Female,2018-12-28,Savings,High,North Laura,UK,809
+CUST1474,Julia Poole,40,Female,2018-05-10,Current,Medium,Guerreroshire,USA,736
+CUST1475,Rhonda Bradford,69,Female,2018-10-20,Savings,Low,Kellyborough,Germany,433
+CUST1476,Brenda Preston,30,Male,2016-05-30,Current,Low,West Calebtown,UK,546
+CUST1477,Edward Davis,46,Male,2017-02-26,Current,Medium,Williamland,UAE,454
+CUST1478,Renee Rodriguez,20,Male,2017-07-05,Savings,Low,Justinside,UAE,789
+CUST1479,Jason Brown,57,Female,2023-09-07,Savings,High,Port John,UK,473
+CUST1480,Courtney Garza,67,Female,2018-01-21,Credit,High,Onealmouth,UAE,367
+CUST1481,Trevor Raymond,31,Female,2023-05-31,Current,High,Kimburgh,India,700
+CUST1482,Carrie Mckinney,67,Male,2023-05-22,Current,High,Bowersburgh,Germany,740
+CUST1483,George Vincent,46,Male,2015-09-13,Current,Low,South Aaronfort,UK,840
+CUST1484,Barry Green,48,Female,2023-12-11,Credit,Medium,South Christianland,UK,530
+CUST1485,Robert Jones,34,Female,2020-03-31,Savings,Low,Port Dustinland,Germany,568
+CUST1486,Samantha Green,64,Female,2019-07-28,Savings,High,Daviston,Germany,496
+CUST1487,Edwin David,68,Female,2021-11-04,Current,Low,East Susanmouth,UAE,702
+CUST1488,Henry Barnes,19,Female,2018-02-22,Savings,Low,Brownchester,UAE,301
+CUST1489,Jasmine Andrews,37,Female,2019-08-29,Current,High,Brownton,UK,423
+CUST1490,Sarah Perez MD,19,Female,2019-01-13,Credit,Low,Alvarezfort,UK,529
+CUST1491,Jeremy Reed,37,Female,2016-10-16,Current,Medium,Lake Sara,Germany,625
+CUST1492,Ricky Marshall,68,Male,2019-08-26,Credit,Medium,Riceshire,India,487
+CUST1493,Jessica Lewis,64,Male,2023-07-17,Credit,Low,Watkinsshire,USA,396
+CUST1494,Natalie Sullivan,38,Female,2017-05-09,Current,Medium,Douglasstad,UK,796
+CUST1495,Thomas Nash,59,Female,2016-04-10,Credit,Medium,Lake Cameron,UAE,617
+CUST1496,Joseph Mckinney,29,Male,2022-03-06,Current,Medium,Lake Christine,Germany,366
+CUST1497,Derrick Cole,56,Male,2022-06-03,Credit,Low,South Ginaburgh,UK,425
+CUST1498,Victoria Brown,23,Male,2015-11-27,Current,Low,East Ebony,UK,726
+CUST1499,Justin Valenzuela,49,Female,2016-11-16,Credit,High,Port Brenda,UAE,414
+CUST1500,Kevin Booth,69,Male,2024-02-10,Savings,High,South Christopherstad,USA,643
+CUST1501,Bradley Houston,67,Female,2016-12-19,Current,Medium,Tanyastad,UK,836
+CUST1502,Robert Jordan,48,Male,2019-07-08,Credit,Medium,New Thomashaven,UK,694
+CUST1503,Marc Torres,65,Female,2019-10-08,Savings,Medium,North Gabriellamouth,India,416
+CUST1504,Megan Mccullough,30,Female,2016-07-31,Credit,Medium,West Deborah,UK,628
+CUST1505,Brandon Gilbert,58,Female,2021-03-20,Current,Low,Murphyville,USA,753
+CUST1506,Bonnie Mccoy,46,Female,2017-02-14,Savings,Medium,New Stephanie,USA,828
+CUST1507,Jeffery Thompson,68,Male,2020-11-25,Credit,Medium,Evansville,India,697
+CUST1508,Rebecca Frederick,54,Female,2022-11-25,Credit,Low,Jacobton,UK,721
+CUST1509,Jeremy Serrano,29,Female,2024-02-23,Current,Medium,Serranoborough,India,575
+CUST1510,Eileen Nichols,64,Female,2021-10-22,Current,Low,Port Michelle,UK,585
+CUST1511,Cristian Bishop,65,Female,2023-06-03,Savings,High,Martinezstad,India,326
+CUST1512,Lindsay Smith,29,Female,2023-02-03,Current,High,Taylorville,USA,319
+CUST1513,Jeffrey Cuevas,47,Female,2020-03-22,Current,Medium,Port Daniellefort,USA,544
+CUST1514,Bonnie Pena,47,Male,2016-05-02,Savings,High,West Michaelburgh,UAE,340
+CUST1515,Mr. William Larson,42,Male,2021-09-18,Savings,Low,East Raymond,India,533
+CUST1516,Rebecca Pham,45,Female,2016-01-10,Savings,Medium,South Patrickland,USA,732
+CUST1517,Diane Taylor,63,Male,2019-12-26,Savings,Low,Brandonbury,UK,412
+CUST1518,Jaime Bailey,48,Female,2021-10-08,Current,High,Kimstad,UAE,540
+CUST1519,Ralph Ferguson,38,Female,2022-03-09,Savings,High,North Seanmouth,UAE,744
+CUST1520,James Harrell,48,Female,2019-07-12,Credit,Medium,New Jennifer,UAE,457
+CUST1521,Timothy Whitehead,65,Male,2023-01-31,Current,Medium,Amberton,India,634
+CUST1522,James Carter,31,Male,2015-06-02,Current,High,Robertsonview,UK,538
+CUST1523,Connor Miller,31,Female,2019-04-21,Credit,Medium,West Ellenberg,UAE,532
+CUST1524,Brian Martin,43,Female,2016-08-01,Current,Low,Dannyview,USA,465
+CUST1525,Jason Young,38,Female,2018-06-27,Savings,Medium,Robertstad,USA,341
+CUST1526,Stacey Meyer,63,Male,2017-06-10,Savings,Medium,Lowemouth,USA,399
+CUST1527,Jordan Willis,22,Female,2024-01-26,Credit,Medium,Walshchester,Germany,791
+CUST1528,Angelica Jones,44,Female,2019-09-23,Current,Medium,Grossland,Germany,464
+CUST1529,Nicholas Garza,43,Male,2018-05-31,Credit,Low,Schneidertown,UAE,428
+CUST1530,Brandon Osborne,24,Male,2022-06-01,Credit,Low,New Dakota,Germany,600
+CUST1531,Kayla Marquez,31,Female,2023-04-21,Savings,Medium,Teresashire,India,329
+CUST1532,Sarah Roberts,34,Female,2020-01-18,Credit,High,Goldenberg,USA,419
+CUST1533,Amber Brown,54,Female,2019-10-02,Current,Medium,North Kimberly,USA,658
+CUST1534,Tonya Anderson,69,Male,2021-04-05,Savings,Medium,Lake Mark,USA,844
+CUST1535,Robert Martinez,53,Female,2022-04-13,Savings,Medium,Houstonfurt,UK,394
+CUST1536,Christina Anderson,60,Female,2016-06-11,Credit,Low,North Russellmouth,UAE,629
+CUST1537,Heather Howard,61,Male,2020-05-16,Current,Low,East Christinabury,Germany,787
+CUST1538,Samantha Jones,44,Male,2022-04-04,Current,High,Calvinshire,Germany,426
+CUST1539,Mark Mcintyre,45,Female,2018-09-20,Current,High,Port Hailey,India,754
+CUST1540,Anthony Henderson,31,Male,2019-12-16,Current,Low,West Mark,UAE,641
+CUST1541,James Simmons,18,Female,2022-03-23,Current,Low,Lake Brianton,India,833
+CUST1542,Michelle Austin,62,Male,2017-08-03,Current,Low,Ericside,India,797
+CUST1543,Susan Walter,30,Female,2016-05-08,Savings,Low,North Jordan,UK,748
+CUST1544,Henry Golden,59,Male,2021-10-09,Savings,Medium,East Elizabethbury,India,515
+CUST1545,Jade Wilson,29,Female,2021-08-29,Savings,High,New Francesshire,India,645
+CUST1546,Holly Payne,26,Female,2016-11-16,Current,Low,Butlermouth,USA,581
+CUST1547,Tara Hull,37,Male,2021-12-03,Current,Medium,Port Kristen,India,749
+CUST1548,Kimberly Grant,58,Female,2019-05-16,Credit,High,Lake Markfurt,Germany,502
+CUST1549,Susan Garcia,60,Male,2020-05-15,Credit,High,Carlbury,USA,646
+CUST1550,Gary Rodriguez,68,Female,2021-09-12,Savings,Medium,West Anita,Germany,414
+CUST1551,Donald Hernandez,69,Male,2022-09-14,Current,High,North Joelstad,UK,427
+CUST1552,Joseph Hughes,38,Female,2021-06-08,Credit,High,East Melissastad,UK,569
+CUST1553,Jason Anderson,36,Female,2016-01-01,Credit,High,Hoganburgh,USA,666
+CUST1554,Jonathan Hall,25,Female,2022-01-03,Savings,High,South Jennifertown,India,574
+CUST1555,Tracy Howard,30,Female,2016-11-21,Credit,Medium,South Krystalshire,Germany,391
+CUST1556,Connor Watson,58,Female,2023-10-17,Savings,Low,Grantfurt,Germany,482
+CUST1557,William Smith,37,Female,2016-08-22,Current,High,Port Steven,Germany,580
+CUST1558,Sarah Lewis,42,Male,2016-07-20,Credit,Low,Michaelbury,USA,389
+CUST1559,Lonnie Paul DDS,25,Male,2022-12-26,Savings,Low,Munozshire,UK,737
+CUST1560,Maria Johnson,52,Male,2019-11-11,Current,Medium,North Stephanie,Germany,431
+CUST1561,Jeffrey Cooke,38,Female,2015-11-09,Current,High,Lake Rubenburgh,UK,734
+CUST1562,Denise Cook,58,Male,2015-05-18,Current,Low,West Shari,USA,704
+CUST1563,Karen Finley,69,Female,2021-04-10,Credit,Medium,North Chelsea,India,632
+CUST1564,Matthew Fleming,45,Male,2019-04-07,Savings,Medium,South Marcburgh,USA,832
+CUST1565,Mark Flowers,33,Male,2018-08-07,Credit,High,Jenningsborough,UK,724
+CUST1566,Andrew Odom,61,Female,2020-06-19,Savings,Medium,Michaelfurt,Germany,769
+CUST1567,Nancy Brown,29,Male,2019-03-16,Current,High,Joetown,India,507
+CUST1568,Nicole Curtis,51,Female,2019-07-17,Current,High,Bradleyfurt,UK,816
+CUST1569,Christy Simmons,65,Female,2016-02-19,Savings,Medium,North Allisonport,India,311
+CUST1570,Frank Phillips,47,Female,2020-08-23,Credit,Low,East Austinmouth,UK,672
+CUST1571,Kathy Cook,47,Female,2023-10-18,Current,Low,Cookchester,Germany,721
+CUST1572,Betty Torres,35,Male,2017-09-22,Credit,High,South Benjamintown,UK,649
+CUST1573,Mark Johnson,69,Female,2018-02-28,Current,Medium,North Franklin,Germany,374
+CUST1574,Mario Molina,43,Female,2017-02-08,Credit,High,Lake Christopher,UAE,746
+CUST1575,Elizabeth Smith,61,Male,2016-07-29,Credit,Medium,South Julia,UAE,739
+CUST1576,Tina Porter,56,Female,2015-10-17,Savings,High,North Alexshire,USA,660
+CUST1577,Devon Sheppard,56,Male,2023-01-04,Savings,High,Solisville,UK,493
+CUST1578,Thomas Velazquez,47,Male,2017-04-12,Savings,Low,West Oliviafort,UK,426
+CUST1579,Jonathan Campbell,30,Male,2015-06-15,Current,High,Stantonfort,USA,327
+CUST1580,Brenda Johnson,56,Male,2020-05-28,Current,Low,Michaelmouth,USA,693
+CUST1581,Chad Johnson,26,Female,2016-12-01,Savings,High,Edwardview,India,583
+CUST1582,Alicia Harrison,52,Female,2017-09-28,Savings,Low,Robertobury,UAE,780
+CUST1583,Charles Gordon,33,Male,2019-08-31,Credit,Low,Brianfort,India,642
+CUST1584,Melissa Hines,18,Female,2021-09-27,Current,Medium,Lake Gracemouth,India,841
+CUST1585,Jonathan Lewis,44,Female,2017-08-11,Current,Low,Fitzgeraldton,UK,568
+CUST1586,Adam Bowen,57,Male,2021-05-02,Savings,Medium,South Leahberg,India,444
+CUST1587,Mike Pacheco II,19,Female,2020-06-23,Credit,Low,East Shaneberg,UK,675
+CUST1588,Zachary Gray,19,Female,2024-04-03,Credit,High,Jenniferbury,USA,673
+CUST1589,Marc Harvey,38,Male,2021-11-07,Current,Low,Olsonport,USA,353
+CUST1590,Kathleen Mccall,58,Female,2023-10-31,Credit,High,Daviston,USA,351
+CUST1591,William Gregory,46,Male,2020-12-27,Credit,High,Dawnville,Germany,353
+CUST1592,Tiffany Flores,33,Male,2015-05-18,Credit,Medium,West Joseph,UK,494
+CUST1593,Christopher Barnes,64,Male,2015-12-18,Savings,Medium,Shannonland,India,694
+CUST1594,Nicholas Bright,25,Female,2018-08-24,Credit,Medium,Schwartzstad,UAE,635
+CUST1595,Tracy Jones,59,Male,2023-05-01,Current,Low,East Todd,UAE,616
+CUST1596,Heather Castillo,66,Male,2019-01-04,Credit,Medium,Lisaville,USA,334
+CUST1597,Daniel Rowe,25,Female,2016-11-03,Savings,Medium,Port Ashley,Germany,582
+CUST1598,Juan Woodward,50,Female,2024-01-20,Current,High,Househaven,Germany,824
+CUST1599,Pamela Wilcox,40,Male,2019-09-21,Savings,Medium,Kyletown,UK,766
+CUST1600,Cassandra Adams,27,Female,2023-12-25,Credit,Low,Lake Maria,USA,768
+CUST1601,Brian Hansen,53,Male,2023-04-30,Savings,Low,Maryberg,UK,772
+CUST1602,Ryan Moore MD,47,Male,2018-06-02,Savings,Low,Fuentesville,India,806
+CUST1603,Katherine Nelson,65,Female,2019-12-22,Current,Low,North Amystad,UK,732
+CUST1604,Susan Arias,29,Male,2016-12-05,Savings,Medium,Jenniferfurt,Germany,726
+CUST1605,Brandon Chan,55,Female,2017-02-03,Credit,High,Hollandport,India,589
+CUST1606,Sherry Green,53,Male,2015-07-14,Savings,High,Brandonmouth,UK,793
+CUST1607,Stephanie Freeman,45,Female,2019-04-18,Current,Medium,Lake Laurieshire,Germany,466
+CUST1608,Rachel Dean,45,Male,2023-12-03,Credit,High,South Andre,Germany,368
+CUST1609,Gregory Farmer,49,Male,2019-09-14,Credit,Medium,Jamesfort,USA,795
+CUST1610,Carol Horne,19,Female,2019-06-04,Savings,High,Ramseyberg,India,472
+CUST1611,Michael Simpson,33,Female,2019-03-25,Savings,Medium,South Josephton,Germany,319
+CUST1612,Cassidy Hicks,38,Male,2016-02-29,Credit,High,Cassandraberg,Germany,690
+CUST1613,Jonathan Hernandez,38,Male,2017-01-29,Credit,Medium,Wongside,USA,481
+CUST1614,Jeffrey Miranda,64,Female,2018-04-18,Savings,Medium,East Thomas,UAE,340
+CUST1615,Cameron Anderson,56,Female,2017-06-06,Credit,High,Port Moniquefort,UK,522
+CUST1616,Michael Brown,59,Female,2019-06-26,Current,Medium,Millerview,Germany,494
+CUST1617,Donald Kim,59,Male,2019-07-12,Savings,Low,East Paulshire,UK,693
+CUST1618,Audrey Wilcox,35,Male,2021-03-24,Savings,High,Amandafort,UK,404
+CUST1619,Anna Miller,26,Male,2020-09-04,Savings,Low,East Laurenport,India,817
+CUST1620,Dawn Ritter,63,Female,2019-08-04,Savings,Low,Michelleburgh,India,341
+CUST1621,Danielle Barry,57,Female,2018-06-02,Savings,Medium,Brooketown,India,359
+CUST1622,Robin Mueller,67,Male,2020-02-16,Current,High,Brandontown,India,455
+CUST1623,Troy Rodriguez,53,Male,2021-11-08,Savings,High,Callahanmouth,India,610
+CUST1624,Derrick Larsen,60,Male,2024-03-11,Current,Medium,Brittanychester,India,533
+CUST1625,Chelsey Myers,36,Male,2018-09-09,Credit,Low,Leeborough,USA,728
+CUST1626,Chloe Nelson,20,Male,2016-05-30,Current,Low,Davisport,UK,817
+CUST1627,Katelyn Harris,60,Female,2015-11-09,Current,High,Smithton,Germany,319
+CUST1628,Alexis Baker,69,Female,2021-03-30,Savings,Medium,East Kendraland,Germany,594
+CUST1629,Isaac Jackson,54,Male,2017-05-21,Savings,High,Melissaton,UAE,689
+CUST1630,Antonio Martinez,23,Female,2021-02-09,Current,Low,Lake Daleville,India,440
+CUST1631,Jennifer Taylor,28,Female,2023-05-11,Current,High,Port Brandonbury,Germany,650
+CUST1632,Joel Newman,45,Male,2024-02-02,Credit,High,Port Richardborough,UAE,415
+CUST1633,Chad Dorsey,68,Male,2022-12-10,Credit,Low,Jenniferfort,UAE,786
+CUST1634,Patricia Walters,44,Female,2018-09-28,Savings,High,Deborahport,India,769
+CUST1635,Timothy Scott,21,Male,2022-09-07,Savings,High,Harpermouth,USA,645
+CUST1636,Amy Jones,51,Female,2017-01-04,Credit,High,Samanthaside,Germany,630
+CUST1637,Brittany Diaz,62,Female,2016-06-20,Current,Medium,Carterberg,USA,711
+CUST1638,Jeffrey Carlson,24,Male,2019-11-27,Credit,Low,Ochoatown,UAE,371
+CUST1639,Rebecca Davidson,52,Female,2017-05-24,Savings,Low,Port Rachelport,UK,458
+CUST1640,Charles Martinez,37,Female,2019-01-19,Current,Low,North Marcochester,Germany,602
+CUST1641,Shelby Ingram,27,Female,2019-02-10,Current,Medium,Port Sean,USA,532
+CUST1642,Mark Martin,60,Female,2018-02-12,Credit,Medium,New Matthew,UK,738
+CUST1643,William Elliott,38,Female,2018-12-09,Savings,Medium,Rhondahaven,India,334
+CUST1644,Wendy Johnson,42,Female,2017-04-14,Savings,High,Port Brittanyport,UAE,319
+CUST1645,Angela Howard,44,Female,2016-09-17,Current,High,Bryantown,Germany,597
+CUST1646,Lisa Miller,51,Female,2024-02-25,Credit,Low,South Williamburgh,USA,415
+CUST1647,Faith Armstrong,43,Female,2019-10-18,Credit,Medium,New Danielside,Germany,367
+CUST1648,Katherine Rodriguez,35,Male,2018-08-29,Credit,Medium,New Christina,Germany,518
+CUST1649,Amy French,48,Female,2018-10-11,Savings,Medium,Port Danielshire,Germany,372
+CUST1650,Margaret Wagner,62,Male,2023-12-21,Credit,Medium,Robinmouth,USA,819
+CUST1651,John Ward,46,Female,2015-11-12,Credit,Low,Melvinborough,UAE,460
+CUST1652,Lisa Lee,63,Female,2023-12-09,Current,High,Lake Kristinfurt,UAE,716
+CUST1653,Paige Hall,69,Female,2018-11-25,Credit,Low,East Stephenmouth,USA,492
+CUST1654,Jacqueline Miller,24,Male,2021-02-02,Current,Medium,West Teresashire,UK,697
+CUST1655,Amy Pennington,18,Male,2021-03-23,Savings,Medium,Randyton,UAE,632
+CUST1656,Carrie Sims,42,Female,2022-09-10,Credit,Medium,Port Lindachester,India,696
+CUST1657,Jordan Roberts,34,Male,2018-04-08,Savings,Medium,Anneport,USA,453
+CUST1658,Joe Adams,30,Male,2020-10-15,Savings,Medium,Lambertshire,UK,823
+CUST1659,Alicia Wilcox,61,Male,2020-03-07,Credit,Low,North Alec,UK,614
+CUST1660,Nicholas Webster,55,Female,2022-05-22,Credit,High,Lake William,Germany,383
+CUST1661,Clayton Welch,67,Male,2015-07-11,Current,Low,Randystad,USA,606
+CUST1662,Matthew Walker,33,Female,2019-10-14,Current,High,Keithshire,Germany,599
+CUST1663,Justin Smith,28,Male,2022-04-06,Savings,Medium,Ryanchester,USA,365
+CUST1664,Neil Prince,60,Female,2018-09-17,Credit,High,Reidhaven,UAE,502
+CUST1665,Paula Weaver,23,Female,2017-08-14,Savings,High,Port Raymondton,USA,521
+CUST1666,Ryan Kidd,41,Male,2022-05-23,Savings,High,Torreschester,India,487
+CUST1667,Dana Wallace,59,Male,2023-11-26,Current,High,Lake Michaeltown,India,577
+CUST1668,Kimberly Clayton,26,Female,2021-02-24,Current,Low,Lake Zachary,UK,324
+CUST1669,Mr. Wayne Dunn PhD,23,Female,2022-06-08,Credit,High,South Tiffany,UAE,476
+CUST1670,Shaun Arellano,61,Male,2016-07-06,Savings,Low,Lake Hayley,USA,431
+CUST1671,Gregory Bell,19,Male,2019-10-07,Current,Low,Fordberg,India,657
+CUST1672,Benjamin Tyler,69,Female,2022-07-10,Current,Low,Kimville,Germany,314
+CUST1673,Michael Hunt,53,Female,2022-03-10,Credit,High,Woodsfort,Germany,602
+CUST1674,Charles Thornton,52,Female,2017-03-31,Savings,High,New Cassandraside,UK,509
+CUST1675,Richard Le,31,Male,2022-10-21,Current,Low,East Tammy,UAE,324
+CUST1676,Scott Gibson,24,Male,2021-12-24,Credit,Medium,Jasmineland,UAE,712
+CUST1677,Michael Graham,44,Female,2021-07-04,Savings,Medium,South Aaron,UAE,690
+CUST1678,Paige Terry,18,Male,2018-07-16,Savings,Medium,Walkerland,UAE,462
+CUST1679,Terry Lee,65,Female,2019-10-29,Credit,High,Alvaradohaven,India,623
+CUST1680,James Yates,30,Female,2018-01-07,Current,Medium,South Laura,USA,306
+CUST1681,Alisha Mooney,65,Male,2023-02-08,Savings,High,Lake Victoria,UAE,839
+CUST1682,Ian Herrera,24,Female,2019-12-27,Savings,High,Lake Catherine,India,386
+CUST1683,Alexandra Gilmore,36,Female,2021-02-17,Credit,Medium,Josephport,UK,530
+CUST1684,Bobby Joseph,42,Female,2015-11-03,Savings,High,Port Amandafort,India,514
+CUST1685,Justin Thornton,49,Male,2021-11-08,Savings,High,North Paul,UK,419
+CUST1686,Valerie Garcia,51,Female,2016-02-01,Current,Low,West Deborah,India,530
+CUST1687,Carmen Garcia,41,Female,2017-09-18,Savings,High,East Diane,USA,303
+CUST1688,John Juarez,30,Female,2017-12-04,Savings,Low,Lake Kimberlybury,UK,571
+CUST1689,Kristin Schaefer,58,Female,2022-04-14,Credit,Medium,Selenastad,UK,571
+CUST1690,Valerie Ballard,34,Male,2022-01-18,Credit,High,West Ashleyhaven,UK,546
+CUST1691,Duane Ruiz,57,Male,2019-12-17,Savings,High,Lake Robin,India,714
+CUST1692,April Reynolds,46,Female,2017-11-16,Credit,High,Loriberg,India,382
+CUST1693,Phillip Williams,67,Male,2023-07-16,Current,Medium,Robertsport,USA,354
+CUST1694,Melissa Blackwell,63,Female,2019-05-15,Savings,High,South Debrabury,India,558
+CUST1695,Ashley Molina,57,Female,2017-12-10,Savings,Medium,Smithstad,India,339
+CUST1696,David Ray,54,Male,2020-09-02,Savings,High,North Conniemouth,USA,512
+CUST1697,Tonya Fischer,54,Male,2016-01-16,Credit,Medium,Lake Brandon,India,682
+CUST1698,Stephanie Greene,67,Female,2022-04-19,Current,Low,Theresamouth,India,647
+CUST1699,Karen May,27,Female,2023-08-11,Savings,Low,Johnnyshire,India,780
+CUST1700,Mr. Shane Vasquez,63,Female,2017-02-27,Current,Medium,South Joseph,USA,568
+CUST1701,Tammy Mcdowell,32,Male,2021-03-05,Credit,Medium,East Maria,India,625
+CUST1702,Michael Vargas,47,Male,2018-01-05,Credit,Medium,Edwintown,India,476
+CUST1703,Bryan Wong,35,Male,2021-10-26,Current,High,West Rachelfurt,Germany,641
+CUST1704,Jody Mcfarland,64,Female,2017-07-25,Current,Low,New Shannon,USA,357
+CUST1705,Joshua Gross,31,Female,2016-04-04,Credit,High,East Jenniferport,Germany,417
+CUST1706,Brenda Torres,55,Male,2020-09-27,Savings,Low,Brownville,India,682
+CUST1707,Tamara Lewis,41,Female,2017-02-16,Credit,Low,Elizabethberg,UK,627
+CUST1708,Joshua Bell,26,Male,2021-02-26,Savings,Low,East Joshuashire,Germany,653
+CUST1709,Victoria Smith,45,Female,2023-01-15,Credit,High,New Annshire,UK,624
+CUST1710,Anna Bennett DVM,60,Male,2015-10-27,Credit,High,Cathyville,India,422
+CUST1711,Amy Wagner,51,Male,2019-09-27,Credit,Low,Audreymouth,Germany,590
+CUST1712,Ronald Mccullough,47,Female,2018-12-05,Savings,Medium,Lake Haleyport,UK,635
+CUST1713,Nathaniel Wolfe,41,Male,2023-11-11,Credit,Medium,Aprilberg,UAE,384
+CUST1714,Kelly Rios,42,Male,2016-10-14,Current,Medium,West Stephenville,UK,414
+CUST1715,Angela Campbell,37,Female,2021-06-12,Savings,Medium,Charlesfort,UAE,460
+CUST1716,Elizabeth Baker,46,Male,2020-11-05,Current,Low,Paulport,USA,594
+CUST1717,Andrea Johnson,49,Female,2016-01-07,Credit,Low,Woodborough,USA,425
+CUST1718,Alexa Spears,50,Female,2020-05-20,Credit,Medium,North Kimberlyview,UAE,350
+CUST1719,Christopher Patterson,34,Female,2023-10-06,Current,High,North Valerieburgh,UK,566
+CUST1720,Tina Bean,29,Male,2020-01-06,Current,Medium,Port Monicaborough,UK,796
+CUST1721,Emily Ramirez,54,Male,2020-10-30,Savings,High,Martinezhaven,India,553
+CUST1722,Krystal Frazier,47,Female,2022-04-02,Savings,Low,Hammondbury,UAE,524
+CUST1723,Edward Ingram,32,Male,2019-12-06,Current,Medium,Lake Gene,UK,458
+CUST1724,Brittney Shannon DDS,37,Male,2020-10-21,Savings,Low,Joanmouth,India,818
+CUST1725,Gloria Mendoza,31,Male,2017-05-25,Credit,Low,Orozcoborough,USA,353
+CUST1726,Logan Johnson,26,Male,2016-04-29,Credit,Medium,Angelaton,USA,522
+CUST1727,Andrea Harris,41,Female,2018-01-03,Credit,Low,New Reneeside,USA,483
+CUST1728,Ryan Farmer,52,Female,2017-12-12,Credit,Low,East Saraburgh,Germany,457
+CUST1729,Michelle Lyons,62,Male,2019-12-12,Savings,Low,Mclaughlinfort,UAE,500
+CUST1730,Mallory Bauer,40,Female,2017-09-09,Credit,Medium,North Masonburgh,India,658
+CUST1731,Anthony Zhang,21,Male,2021-01-28,Current,High,Clarktown,UAE,662
+CUST1732,Dr. Caroline Thomas,49,Female,2021-07-03,Credit,High,New Samanthamouth,Germany,385
+CUST1733,Kevin Case,47,Male,2024-01-03,Current,High,New Joshua,India,554
+CUST1734,William Young,52,Male,2019-04-03,Credit,Medium,South Julie,UK,673
+CUST1735,Kaitlyn Robinson,55,Female,2022-09-02,Savings,Low,Lake Michaelmouth,UK,675
+CUST1736,Scott Smith,47,Female,2015-09-18,Current,Medium,West Lisa,UAE,589
+CUST1737,Mary Spencer,34,Female,2021-08-26,Credit,High,Andersontown,Germany,788
+CUST1738,Kenneth Hernandez,33,Female,2018-12-14,Current,Low,West Laurenburgh,UAE,784
+CUST1739,Paige Sims,32,Female,2019-06-11,Credit,High,Spencebury,USA,679
+CUST1740,Jenny Hill,24,Female,2023-02-09,Savings,High,Brownborough,India,301
+CUST1741,Sally Ward,62,Female,2022-08-09,Savings,Low,Lake Kathleenhaven,UK,615
+CUST1742,Leonard Dunlap,41,Female,2018-10-02,Credit,Low,Sandraview,India,399
+CUST1743,John Serrano,31,Female,2023-01-08,Savings,Medium,Lake Maurice,UAE,747
+CUST1744,Julian Mason,35,Male,2021-03-14,Savings,Medium,West Carl,Germany,694
+CUST1745,Debra Wells,69,Female,2024-04-24,Credit,Medium,West Royfurt,UAE,519
+CUST1746,Sabrina Wright,21,Female,2024-03-17,Credit,Low,Alexisland,India,596
+CUST1747,Thomas Osborne,26,Female,2017-03-11,Savings,Medium,East Dawn,Germany,624
+CUST1748,Melinda Jennings,55,Female,2017-11-19,Credit,Medium,Amystad,India,645
+CUST1749,John Bonilla,22,Male,2018-09-19,Savings,Medium,Port Todd,USA,699
+CUST1750,Diamond Jensen,37,Male,2020-09-16,Credit,Medium,Lake Lisa,UK,756
+CUST1751,Darlene Jordan,68,Female,2018-03-13,Savings,Low,West Victoria,UAE,662
+CUST1752,Tracey Cabrera,42,Male,2023-03-29,Credit,Medium,North Stephaniefort,Germany,554
+CUST1753,Emily Arnold,57,Female,2017-11-09,Credit,Medium,South Robin,USA,763
+CUST1754,Ryan Campbell,48,Male,2020-05-17,Current,Medium,North Johnberg,USA,616
+CUST1755,Zachary Rodriguez,37,Male,2017-07-16,Current,Low,North Juliemouth,India,494
+CUST1756,Ariel Madden,57,Male,2017-08-15,Credit,Low,Hooperbury,UK,758
+CUST1757,Jorge Harding,64,Male,2021-01-13,Current,High,New Jacobmouth,UAE,586
+CUST1758,Jacob Waller,43,Male,2016-07-12,Credit,High,Aguilarstad,India,576
+CUST1759,Julia Greer,55,Male,2020-02-29,Savings,Medium,Craigside,UK,747
+CUST1760,John Ferguson,58,Female,2020-01-20,Current,Low,East Paige,UK,770
+CUST1761,Joshua Cooper,52,Male,2023-04-29,Savings,High,West Marc,UK,794
+CUST1762,Kevin Roach,44,Male,2023-10-04,Savings,High,Ballhaven,USA,645
+CUST1763,William Rollins,64,Female,2020-05-21,Savings,Medium,Port Rhonda,USA,470
+CUST1764,Jonathan Wheeler,58,Male,2020-04-06,Savings,Low,Robinview,UK,800
+CUST1765,Christopher Gordon,33,Female,2021-11-27,Credit,Medium,Stephanietown,USA,750
+CUST1766,Darrell Callahan,69,Male,2017-07-08,Savings,Medium,Browntown,Germany,370
+CUST1767,Teresa Casey,48,Female,2016-09-20,Savings,Medium,Davidfurt,Germany,841
+CUST1768,Dennis Ferguson,18,Male,2018-12-27,Credit,Medium,North Alyssahaven,India,438
+CUST1769,Joshua Gutierrez,63,Female,2017-07-28,Credit,Low,Jameschester,UAE,765
+CUST1770,Linda Baker,33,Female,2016-04-27,Credit,Low,Port Tinamouth,India,373
+CUST1771,Megan Roberts,21,Female,2018-04-14,Current,High,Lake Adam,Germany,699
+CUST1772,Samantha Gillespie,18,Female,2020-09-03,Current,Medium,Mcphersonview,UK,733
+CUST1773,Hailey Lopez,52,Male,2016-05-28,Current,High,Randybury,UAE,812
+CUST1774,Nancy Chavez,38,Male,2022-01-21,Current,Low,Petersstad,Germany,712
+CUST1775,Michael Cox,69,Female,2018-09-17,Credit,High,East Josephhaven,UK,405
+CUST1776,Derrick Anderson,65,Female,2021-03-30,Credit,Low,Lake John,India,315
+CUST1777,Tammy Berger,44,Female,2016-01-30,Savings,High,Port Andrewside,USA,647
+CUST1778,Kelly Jones,63,Female,2020-09-12,Current,Low,Beasleyburgh,UK,689
+CUST1779,Adam Kramer,27,Male,2016-04-11,Credit,High,New Matthewstad,UAE,521
+CUST1780,Sharon Salinas,45,Female,2017-11-03,Credit,Medium,Susanberg,UAE,612
+CUST1781,John Parks,35,Female,2020-04-21,Savings,Low,West Nicholasshire,UAE,848
+CUST1782,Douglas Phillips,36,Male,2019-12-04,Savings,Low,South Karenview,Germany,598
+CUST1783,Nathan Thomas,47,Female,2020-04-18,Savings,Medium,Grossbury,UK,684
+CUST1784,Austin Hill,66,Female,2022-03-14,Current,High,North Justinville,USA,688
+CUST1785,Carmen Reid,24,Female,2024-02-04,Credit,Medium,Port Walterland,UK,778
+CUST1786,Isaac Juarez,48,Male,2019-05-26,Current,Medium,Briannaberg,USA,674
+CUST1787,Donald Owen,36,Female,2016-07-22,Credit,High,Christietown,UAE,321
+CUST1788,Michael Bridges,22,Female,2022-12-02,Current,Medium,West Franciscofurt,USA,698
+CUST1789,Jeremy Joyce,23,Female,2019-05-01,Current,High,Katherineburgh,Germany,425
+CUST1790,Taylor Ryan,46,Female,2023-05-05,Savings,High,Davidton,UK,789
+CUST1791,Darlene Curry,50,Male,2024-01-25,Savings,Low,Nicholastown,UK,360
+CUST1792,Kelly Espinoza,28,Female,2023-11-23,Savings,Medium,Lake Brian,Germany,587
+CUST1793,Dr. Katherine Lawson DVM,26,Female,2017-04-08,Credit,Low,South Pamelamouth,Germany,659
+CUST1794,Willie Davis,58,Female,2024-01-19,Credit,High,East Adam,USA,484
+CUST1795,Alexander Cook,65,Female,2015-10-20,Current,High,South Monicaborough,India,452
+CUST1796,Barbara Robertson,50,Male,2020-03-27,Current,Medium,North Juanport,India,536
+CUST1797,Julie Newton,45,Female,2019-04-12,Savings,Low,Ryanberg,India,416
+CUST1798,Frank Miles,38,Male,2016-06-08,Current,Low,Greenmouth,UK,803
+CUST1799,Darius Hernandez,54,Male,2017-12-09,Current,Medium,Williamsonville,Germany,417
+CUST1800,Allen Miller,64,Female,2023-01-29,Credit,High,Scottton,Germany,687
+CUST1801,Laura Jackson,52,Male,2020-09-07,Current,High,Michaelton,Germany,581
+CUST1802,Laura Graves,66,Male,2021-06-14,Savings,Low,Lake Sarah,UK,611
+CUST1803,Jennifer Cruz,18,Male,2017-03-15,Credit,Low,Meganshire,Germany,736
+CUST1804,Alexis Nixon,28,Male,2023-12-12,Credit,High,Jacobchester,India,543
+CUST1805,Lisa Peterson,34,Female,2017-08-24,Credit,High,North Teresamouth,UAE,559
+CUST1806,Nicholas Williams,19,Female,2018-10-18,Current,Low,North Shannon,India,813
+CUST1807,Roy Smith,60,Male,2018-08-20,Current,Low,North Scott,Germany,711
+CUST1808,Tabitha Livingston,24,Female,2021-04-16,Credit,High,Matthewsbury,USA,378
+CUST1809,Kelly Todd,18,Male,2018-03-16,Credit,Low,Smithport,India,720
+CUST1810,Angela Flores,47,Male,2016-05-04,Savings,Low,Lake Daniel,India,765
+CUST1811,Natasha Murphy,31,Male,2020-02-03,Current,Low,Lopezview,UK,698
+CUST1812,Teresa Harding,61,Male,2023-08-02,Savings,Low,East Amandamouth,Germany,393
+CUST1813,Jeffrey Castillo,20,Male,2017-12-24,Savings,High,Youngton,USA,559
+CUST1814,Kimberly Smith,36,Male,2016-02-22,Credit,Medium,Vazquezberg,India,782
+CUST1815,Emily Hughes,24,Female,2020-05-08,Savings,High,New Michael,UK,317
+CUST1816,Michael Johnston,53,Female,2023-07-27,Savings,High,West John,UAE,362
+CUST1817,Luis Sosa,20,Male,2018-10-08,Savings,Medium,East Shaunside,USA,481
+CUST1818,Christopher Benitez,38,Female,2016-09-13,Savings,Medium,Higginschester,Germany,698
+CUST1819,Nicholas Lewis,28,Male,2020-05-16,Credit,Medium,Bentleyville,Germany,358
+CUST1820,Ashley Mcclure,47,Male,2019-02-11,Current,Medium,East Carlamouth,USA,403
+CUST1821,Amy Hernandez,57,Male,2017-05-15,Current,Medium,New Tonymouth,UAE,749
+CUST1822,Michael Young,37,Male,2022-02-04,Savings,High,Port Erichaven,UK,702
+CUST1823,Craig Burch,27,Female,2022-01-21,Credit,Medium,Carrton,USA,354
+CUST1824,Misty Curtis,24,Female,2024-02-22,Credit,High,Lake Lori,UAE,393
+CUST1825,Steven Bowman,38,Male,2017-12-25,Savings,Low,West Christineport,India,507
+CUST1826,Ryan Young,34,Female,2016-08-07,Savings,High,Yvonnemouth,USA,324
+CUST1827,Amber Herring,55,Female,2021-09-08,Savings,Medium,East Benjamin,India,585
+CUST1828,Wendy Moore,19,Female,2018-12-06,Savings,High,Port Tylerchester,USA,643
+CUST1829,Jacob Cooper,30,Female,2023-05-12,Credit,Low,West Christopher,India,327
+CUST1830,Virginia Green,35,Female,2016-02-24,Savings,High,New Austinborough,UK,500
+CUST1831,Barbara Russell,64,Female,2018-04-05,Savings,Low,Lake Zoe,UK,560
+CUST1832,Alicia Miller,59,Female,2020-02-15,Credit,Medium,Paulbury,USA,658
+CUST1833,Kevin Garcia,28,Male,2019-01-30,Savings,Medium,Montoyaberg,UK,438
+CUST1834,Deborah Davis,52,Male,2017-04-01,Savings,High,North Patriciamouth,India,800
+CUST1835,Dorothy Miller,49,Male,2021-10-12,Current,Low,New Jacobshire,USA,483
+CUST1836,Samantha Jenkins,33,Female,2021-06-22,Current,High,South Taramouth,USA,518
+CUST1837,Catherine Higgins,58,Male,2016-07-20,Current,High,Port Jeanshire,UAE,701
+CUST1838,Alex Wilson,36,Male,2015-08-10,Credit,Low,New Mariaview,USA,371
+CUST1839,Matthew Livingston,35,Male,2018-06-23,Current,High,South Vincentchester,UAE,641
+CUST1840,Jonathan Jordan,39,Female,2017-04-09,Current,High,Sierratown,UK,515
+CUST1841,Mark Olson,45,Female,2022-05-08,Savings,Medium,East Adam,Germany,424
+CUST1842,Matthew Miles,37,Female,2015-11-25,Savings,High,Haynesburgh,USA,332
+CUST1843,Daniel Robles,27,Female,2021-11-13,Current,High,Tammybury,India,311
+CUST1844,Amanda Lewis,46,Female,2017-10-17,Savings,Medium,South Cherylhaven,UAE,670
+CUST1845,Erika Kennedy,30,Male,2021-04-30,Current,Low,North Michaelhaven,India,448
+CUST1846,Patricia Johnson,25,Female,2022-10-30,Credit,Medium,Jacksonborough,Germany,338
+CUST1847,Shawn Smith,20,Male,2017-10-03,Credit,High,South Thomasville,USA,360
+CUST1848,Jennifer Rosario,67,Male,2020-09-10,Credit,High,Forbesborough,Germany,695
+CUST1849,Laurie Duncan,43,Male,2024-04-29,Current,High,Jamesfort,India,387
+CUST1850,Christina Arnold,26,Male,2019-06-23,Credit,High,Anthonymouth,India,739
+CUST1851,Paula Horn,46,Male,2021-01-26,Credit,Medium,East Michael,UAE,481
+CUST1852,Debra Stevens,53,Female,2020-03-21,Savings,Low,Port Donald,UAE,709
+CUST1853,William Vazquez,37,Male,2019-01-21,Current,High,East Victorbury,USA,427
+CUST1854,Lisa Townsend,63,Female,2018-04-07,Credit,Medium,East Stephaniemouth,Germany,660
+CUST1855,Brett Sanchez,69,Male,2023-03-26,Current,Medium,North Morganton,USA,461
+CUST1856,Christina Mccarty,68,Male,2021-08-07,Current,High,Port Isabelbury,India,308
+CUST1857,Susan Reed,46,Female,2022-08-27,Credit,High,Alisonville,USA,308
+CUST1858,Jacqueline Montgomery,35,Male,2023-08-01,Savings,High,Morrisfort,India,603
+CUST1859,Bryan Deleon,44,Female,2015-08-09,Current,High,East Kevin,UK,333
+CUST1860,Timothy Ramos,69,Female,2015-07-21,Current,High,Smithstad,USA,651
+CUST1861,Jennifer Williams,18,Male,2022-12-03,Savings,Medium,West Donaldburgh,UK,566
+CUST1862,Alexis Kim,36,Female,2016-03-25,Credit,Medium,East Kenneth,UK,303
+CUST1863,Kenneth Baldwin,50,Female,2020-08-04,Savings,Medium,Lake Danielleville,USA,497
+CUST1864,James Santos,63,Male,2023-09-11,Savings,Low,Lake Frederick,India,603
+CUST1865,Ian Cooper,65,Female,2023-07-05,Credit,Low,East Matthewstad,UK,750
+CUST1866,James Lee,65,Female,2022-08-28,Savings,Low,Ramosport,USA,744
+CUST1867,Stanley Palmer,56,Male,2021-06-19,Current,Low,Andersonton,India,438
+CUST1868,Jose Thompson,20,Female,2017-08-04,Current,Medium,New Shawn,Germany,797
+CUST1869,Mark Jackson,46,Female,2021-02-24,Credit,Medium,Kristinemouth,Germany,367
+CUST1870,Crystal King,42,Female,2018-10-20,Savings,Medium,East Thomas,USA,838
+CUST1871,Linda Carson,25,Female,2020-12-24,Savings,Medium,Kellyfurt,USA,427
+CUST1872,Rebecca Long,20,Female,2018-05-21,Savings,Low,Richardstad,Germany,560
+CUST1873,John Barker,23,Female,2020-07-31,Current,Low,North Lisa,USA,839
+CUST1874,Mr. Mark Evans,26,Male,2024-03-25,Credit,Medium,Lake Cameron,USA,535
+CUST1875,John Schneider,59,Female,2019-07-08,Savings,High,New Raymond,UK,369
+CUST1876,Veronica Smith,34,Male,2022-11-18,Savings,Medium,Parksmouth,India,306
+CUST1877,Zachary Daniels,60,Male,2017-06-05,Savings,Low,Pachecoview,India,673
+CUST1878,Mikayla Brown,41,Female,2021-12-22,Credit,Medium,Harveyville,UK,362
+CUST1879,Samantha Ramsey,18,Female,2017-10-26,Current,High,Thomasfurt,Germany,797
+CUST1880,Henry Perez,61,Female,2022-08-02,Credit,High,North Rebecca,Germany,363
+CUST1881,Sheena Powell,25,Male,2016-05-19,Savings,Medium,Barberville,UK,413
+CUST1882,Angel Johnson,19,Female,2018-11-15,Current,Low,Franklinstad,UAE,505
+CUST1883,Amanda Williams,27,Male,2015-10-12,Current,High,Chadhaven,Germany,497
+CUST1884,Ashley Smith,22,Female,2021-07-31,Savings,High,Fritzfurt,UAE,489
+CUST1885,Nicole Cooke,24,Male,2020-02-24,Current,Low,Bonniefort,USA,608
+CUST1886,Carolyn Gomez,64,Male,2021-06-30,Current,Medium,North Timothy,USA,718
+CUST1887,Amanda Walsh,39,Male,2015-06-21,Savings,High,Port Jason,Germany,328
+CUST1888,Stacey Martinez,40,Female,2016-03-09,Current,High,Josephberg,USA,346
+CUST1889,Ashley Munoz,43,Male,2021-06-09,Savings,Low,Port Michele,India,366
+CUST1890,Tanya Mullins,67,Male,2016-03-02,Savings,High,South Chad,USA,424
+CUST1891,James Garcia,55,Male,2019-10-02,Credit,High,East Benjaminview,USA,522
+CUST1892,Kenneth Arnold,59,Female,2023-06-28,Credit,Low,Shanemouth,India,342
+CUST1893,Amanda James,41,Female,2024-01-09,Savings,High,Jenniferfurt,Germany,748
+CUST1894,Molly Warren,36,Male,2019-06-26,Savings,Low,Hamiltonfort,India,527
+CUST1895,Rachel Werner,42,Male,2020-06-04,Current,Low,Thomasborough,UAE,666
+CUST1896,Karen Boyd,25,Female,2023-02-07,Savings,Low,Burkeport,UAE,586
+CUST1897,Cathy Flores,42,Male,2015-06-25,Credit,Medium,Whiteside,India,743
+CUST1898,Timothy Palmer,65,Female,2018-12-11,Savings,Medium,Stefaniefort,UK,669
+CUST1899,Angela Fischer,47,Female,2023-01-09,Current,Low,Port Angel,UK,532
+CUST1900,Tiffany Bowers,26,Female,2017-10-18,Credit,Medium,Ochoaview,Germany,782
+CUST1901,Matthew Bonilla,42,Male,2021-12-05,Current,Low,South Michael,UAE,404
+CUST1902,Ryan Campbell,24,Female,2017-08-30,Savings,Low,North Vanessaview,USA,659
+CUST1903,Barbara Bush,32,Female,2015-09-24,Credit,Medium,Carsonmouth,UK,490
+CUST1904,Robert Martin,43,Male,2022-01-05,Current,Medium,Port Theresaside,Germany,652
+CUST1905,Geoffrey Barker,64,Male,2021-02-16,Current,Medium,South Martha,Germany,610
+CUST1906,James Carr,20,Male,2024-01-22,Credit,Medium,Hoganberg,UK,750
+CUST1907,Michelle Reyes,21,Male,2018-05-31,Savings,Medium,Port Debraview,India,844
+CUST1908,Robin Harvey,26,Male,2021-08-26,Savings,High,Lake Amberfurt,Germany,643
+CUST1909,Jared Hobbs,59,Male,2023-06-01,Credit,Low,North Elizabethmouth,India,381
+CUST1910,Valerie Lopez,37,Male,2023-10-05,Savings,Medium,Moniqueborough,UAE,780
+CUST1911,Laurie Harvey,18,Male,2020-03-28,Current,Low,Port Brittany,Germany,584
+CUST1912,Michelle Fitzpatrick,25,Male,2018-06-15,Current,High,Michaelfort,India,606
+CUST1913,Dana Taylor,46,Male,2018-08-15,Current,Low,Port Mary,UK,398
+CUST1914,Walter Evans,28,Male,2018-02-04,Savings,High,Taylorshire,UK,307
+CUST1915,Miss Sarah Parrish,50,Female,2022-10-05,Current,High,Martinezmouth,Germany,692
+CUST1916,Ashley Scott,32,Female,2020-02-14,Current,Low,Mollybury,UK,625
+CUST1917,Evelyn Mora,45,Male,2021-01-18,Savings,High,Angieberg,India,461
+CUST1918,Doris Kaufman,64,Male,2020-04-20,Credit,High,South Jason,Germany,437
+CUST1919,Lisa Ballard,67,Female,2016-06-25,Savings,Medium,Lake Bethberg,UAE,823
+CUST1920,Jeremy Long,19,Female,2015-07-29,Credit,Medium,Juliefurt,USA,692
+CUST1921,Heather Aguirre,62,Male,2023-10-12,Current,High,Weaverfort,UK,567
+CUST1922,Danny Sutton,36,Female,2021-09-25,Current,Low,Lake Kevinfurt,India,838
+CUST1923,Leslie Bowman,40,Male,2020-01-08,Current,High,Port Samanthachester,UK,411
+CUST1924,Karen Gonzalez,21,Female,2019-10-22,Savings,Medium,Davidville,India,435
+CUST1925,Frederick Edwards,67,Female,2017-12-03,Credit,Low,New Michelle,UAE,556
+CUST1926,Rebecca Figueroa,37,Male,2019-08-26,Current,High,Troytown,India,776
+CUST1927,Melissa Gomez,52,Female,2021-07-03,Credit,High,Gabriellaport,India,522
+CUST1928,Miss Wendy Day,26,Male,2020-05-12,Savings,Medium,Christophermouth,USA,409
+CUST1929,Kristin Willis,60,Female,2018-11-16,Credit,Medium,New Robinstad,India,819
+CUST1930,Claudia Chavez,37,Female,2021-10-21,Credit,High,North Vincent,USA,521
+CUST1931,Evelyn Bernard,66,Male,2017-11-15,Credit,Medium,Lake Erinmouth,UK,594
+CUST1932,Stephanie Davis,66,Female,2016-03-27,Current,Low,East Alexanderfort,UAE,377
+CUST1933,Crystal Kane,45,Female,2017-06-19,Credit,Medium,Watsonville,India,512
+CUST1934,Colin Nelson,46,Female,2019-03-06,Current,Medium,Toddport,UAE,695
+CUST1935,Shawn Mahoney,45,Male,2017-08-25,Current,High,Drakehaven,Germany,507
+CUST1936,Jamie Molina,36,Female,2017-06-28,Savings,Low,North Chad,UK,657
+CUST1937,Steven Todd,22,Female,2016-07-31,Current,Low,Lake Brentside,USA,554
+CUST1938,Jason Young,66,Male,2024-04-22,Savings,High,Port Kristinside,USA,347
+CUST1939,Mark Gilmore,49,Male,2022-11-06,Credit,High,Cannonmouth,UK,533
+CUST1940,Stephanie Hall,47,Female,2022-03-04,Savings,High,West Lisaside,UK,725
+CUST1941,Kristen Carter,19,Male,2022-11-18,Current,High,Maryburgh,UAE,587
+CUST1942,Nicole Martinez,55,Female,2023-07-09,Credit,Medium,Martinshire,UAE,571
+CUST1943,Kayla Vang,20,Male,2017-02-10,Current,Medium,Cookside,UAE,555
+CUST1944,Dana Wilson,52,Female,2022-10-11,Credit,Low,Port Laurenhaven,Germany,461
+CUST1945,Jamie Jacobs,36,Female,2015-07-17,Credit,Low,Gregorymouth,Germany,808
+CUST1946,Diana Page,35,Male,2016-08-10,Savings,Low,Smithshire,India,531
+CUST1947,Megan Potts,19,Female,2021-06-20,Credit,Low,Zacharyshire,India,319
+CUST1948,Andrew Mendoza,32,Female,2020-02-10,Savings,High,South Kathryn,UK,658
+CUST1949,Scott Le,42,Male,2021-11-23,Current,Low,North Jesusberg,USA,692
+CUST1950,Alyssa George,27,Male,2016-09-09,Savings,High,Jimenezmouth,USA,762
+CUST1951,Jade Gardner,69,Female,2017-09-08,Savings,Medium,Lake Robert,USA,736
+CUST1952,Jonathan Jackson,59,Female,2018-07-01,Savings,Low,Hartmanburgh,USA,773
+CUST1953,Mary Wilson,63,Female,2021-09-20,Savings,Medium,Phillipsstad,USA,539
+CUST1954,Lori Mcgee,25,Male,2015-07-04,Credit,High,Jacksonhaven,India,651
+CUST1955,Kevin Orozco,63,Male,2015-08-29,Current,High,East Matthew,India,680
+CUST1956,Sean Curtis,62,Female,2021-07-26,Current,Low,Medinastad,USA,620
+CUST1957,Troy Hansen,68,Male,2020-12-23,Current,Medium,Beasleybury,UK,349
+CUST1958,Monica Carpenter,44,Male,2021-01-05,Credit,High,Bellland,UAE,732
+CUST1959,Elizabeth Thompson,59,Male,2018-10-14,Savings,Low,South Victor,Germany,634
+CUST1960,Anna Fox,45,Female,2020-11-22,Current,Low,East David,Germany,760
+CUST1961,Dustin Thornton,41,Female,2021-09-12,Savings,Medium,North Briana,UK,574
+CUST1962,Ryan Diaz,68,Female,2022-09-06,Credit,High,Mackenzieberg,India,572
+CUST1963,Matthew Miller,38,Female,2016-02-02,Credit,High,New Sarah,India,479
+CUST1964,Cheryl Roberts,32,Male,2015-07-06,Savings,Medium,Karenstad,India,843
+CUST1965,Michael Reed,55,Female,2017-11-16,Savings,Low,New Sarahmouth,Germany,786
+CUST1966,Denise Reed,38,Female,2019-09-17,Current,Low,East Jerryville,USA,534
+CUST1967,Tommy Johnson,53,Male,2019-10-17,Credit,High,Johnsonchester,USA,491
+CUST1968,Kelly Woods,31,Female,2021-01-17,Credit,Low,South Rita,India,578
+CUST1969,Allison Turner,42,Female,2023-11-19,Savings,Low,Port Sharon,Germany,598
+CUST1970,Donna Cohen,24,Female,2019-03-07,Current,Low,Port Carl,India,748
+CUST1971,Jason Robbins,48,Male,2022-06-13,Credit,Medium,Sherryburgh,UAE,465
+CUST1972,Jaime Sanchez,39,Female,2023-03-02,Current,Low,South Melissashire,UAE,354
+CUST1973,Michael Murillo,47,Male,2023-08-09,Current,High,North Jeffrey,UK,692
+CUST1974,Robert Johnson,23,Female,2024-02-17,Credit,Low,Jamesbury,Germany,744
+CUST1975,Kathleen Thomas,65,Male,2018-06-30,Current,Low,New Greg,Germany,555
+CUST1976,Mark Thompson,40,Male,2020-06-21,Current,High,Rushburgh,UAE,645
+CUST1977,Gabriel Duke,48,Female,2018-04-03,Current,Low,North Joseph,UK,584
+CUST1978,William Ryan,58,Female,2021-11-26,Credit,High,Port Dana,USA,734
+CUST1979,John Jackson,39,Male,2023-03-22,Savings,High,Port Emily,USA,847
+CUST1980,Erika Franco,69,Male,2017-02-28,Credit,Medium,West Patricktown,UAE,689
+CUST1981,Mr. Richard Sellers,48,Female,2020-09-17,Credit,Medium,North Marilynview,UK,478
+CUST1982,Tyler Cobb,49,Female,2022-05-02,Savings,Low,North Robert,UK,772
+CUST1983,Jessica Gonzalez,54,Male,2024-03-26,Credit,Low,North Angelicaport,UK,415
+CUST1984,Lisa Obrien,55,Male,2021-10-26,Credit,High,North Brianbury,UK,527
+CUST1985,Frederick Hunter,35,Male,2021-10-28,Current,Low,North Paulfort,UAE,304
+CUST1986,Anna Jackson,44,Male,2017-03-15,Credit,High,Warrenview,Germany,607
+CUST1987,Sarah Mays,56,Male,2020-03-05,Current,Medium,West Amandaland,UAE,403
+CUST1988,Jerry Anderson,41,Male,2018-02-10,Credit,High,Lake Richardland,USA,549
+CUST1989,Justin Macias,43,Female,2021-11-18,Savings,Low,North Ronald,USA,718
+CUST1990,Lisa Delacruz,33,Female,2016-01-11,Savings,High,West Mary,Germany,809
+CUST1991,Edwin Smith,67,Male,2019-07-22,Current,Medium,East Taylorborough,USA,705
+CUST1992,John Franklin,68,Female,2021-02-28,Savings,High,Leahhaven,Germany,657
+CUST1993,Marc Hebert,66,Male,2022-05-04,Credit,High,Jacksonchester,India,426
+CUST1994,Crystal Howell,35,Female,2019-09-17,Credit,Medium,Johnfort,India,805
+CUST1995,Juan Freeman,33,Female,2018-11-12,Savings,Medium,North Christine,USA,624
+CUST1996,Eric Alexander,65,Male,2017-10-09,Savings,High,Juliastad,Germany,707
+CUST1997,Eric Dixon,34,Female,2023-03-17,Savings,Medium,Port Christinestad,India,796
+CUST1998,Bobby Bray,69,Male,2020-01-21,Savings,High,Leeville,India,820
+CUST1999,Michael Benson,49,Female,2024-03-29,Savings,Medium,Frankshire,UK,785
